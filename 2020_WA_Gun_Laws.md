@@ -54,7 +54,7 @@ Yes. Washington has no magazine capacity restrictions. However, legislation rest
 
 ## *Semiautomatic Assault Rifles*
 
-**What is a semiautomatic assault rifle?**
+**What is a** ***semiautomatic assault rifle*****?**
 
 Simply, any semiautomatic rifle. The full definition is located in RCW [9.41.010](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (26), but the definition applies to any semiautomatic rifle except for antiques, deactivated firearms, and manually operated rifles. There is no exception for caliber or magazine types, so even a tube-fed .22LR rifle meets the definition if it's semiautomatic.
 
@@ -187,10 +187,6 @@ See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_w
 **Can a C&R holder purchase a C&R-eligible *semiautomatic assault rifle* and walk away with it the same day?**
 
 I don't have an official answer, but in my opinion no. RCW [9.41.092](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.092) requires the dealer to wait ten business days before delivering any semiautomatic rifle, but, importantly, the clock starts when the buyer submits a purchase application or a background check is initiated for a transfer. And since a C&R transfer is exempt from the background check provisions, I do not believe the transfer window applies.
-
-**Are there any other ways a C&R interacts with WA state law that may not be obvious?**
-
-The way that state law is worded leads me to believe that a transfer of a C&R-eligible semiautomatic rifle from an out-of-state source or an in-state private source is easier than from an in-state dealer. Because state law regulates semiautomatic rifle transfers by placing requirements on dealer deliveries independent of the background checks, it's likely that some parts of I-1639 may still be required for an in-state dealer even if the background check isn't required. But I don't have any experience with this yet and haven't seen any official interpretations.
 
 ## Health Information Waiver
 
@@ -344,14 +340,14 @@ No. Federal law has no exemption to interstate transfer rules for gifts, even be
 
 ## Transfers to Federally Licensees
 
-**"Can I legally transfer my gun to an Oregonian or Idahoan gunsmith?"**
+**Can I legally transfer my gun to an Oregonian or Idahoan gunsmith?**
 
 Yes. Under federal law [18 U.S. Code § 921 (a)(11)](https://www.law.cornell.edu/uscode/text/18/921) a gunsmith is considered a dealer, and under [18 U.S. Code § 922 (a)(3)](https://www.law.cornell.edu/uscode/text/18/922#a)
 a licensed dealer may receive a firearm from a resident of any state. 
 
 Under federal law [18 U.S. Code § 922 (a) (2) (A)](https://www.law.cornell.edu/uscode/text/18/922#a_2), a licensed dealer may return a repaired or replacement firearm to the person from whom it was received without needing to run a background check. In addition, state law RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) (4)(f) exempts the return of a repaired or replacement firearm from the background check requirements.
 
-**Can an individual ship a firearm to a federal licensee?"**
+**Can an individual ship a firearm to a federal licensee?**
 
 Yes. An unlicensed individual may ship guns directly to an FFL in any state. Shotguns or rifles may be shipped via the USPS or a contract carrier (e.g. UPS, FedEx), while handguns and other firearms may only be shipped by a contract carrier. However, each carrier will have their own policies which you'll need to check before hand, and most carriers will not accept firearms at their retail centers, only distribution centers. Finally, some dealers will not accept shipments from unlicensed persons, so be sure to check the policies of the receiving dealer before shipping.
 
