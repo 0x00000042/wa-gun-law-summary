@@ -178,7 +178,7 @@ No. A pistol frame does not meet the state definition of a *pistol* in RCW [9.41
 
 Yes. RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part (4)(i) exempts transfers of C&R firearms to someone who holds a valid C&R license. Federal law also exempts C&R transfers from the typical dealer background check process.
 
-**Is a C&R-eligible semautomatic rifle subject to the** ***semiautomatic assault rifle*** *provisions of I-1639*?
+**Is a C&R-eligible semautomatic rifle subject to the** ***semiautomatic assault rifle*** **provisions of I-1639**?
 
 This is a complicated question with no definite answer. In my opinion, partially. RCW [9.41.113](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.113) (4)(i) exempts C&R purchases from the background check requirements. However, RCW [9.41.090](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.090) requires a dealer to receive proof of training before delivering any *semiautomatic assault rifle* with no exemptions.
 
