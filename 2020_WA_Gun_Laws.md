@@ -164,7 +164,7 @@ Currently we don't know. The FBI and the state came to an agreement last year fo
 
 Yes. RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part (4)(i) exempts transfers of C&R firearms to someone who holds a valid C&R license. Federal law also exempts C&R transfers from the typical dealer background check process.
 
-**Is a C&R-eligible semautomatic rifle subject to the *semiautomatic assault rifle* provisions of I-1639**?
+**Is a C&R-eligible semiautomatic rifle subject to the *semiautomatic assault rifle* provisions of I-1639**?
 
 This is a complicated question with no definite answer. In my opinion, partially. See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
 
@@ -358,7 +358,7 @@ Yes. An issuing authority must issue a CPL unless the applicant is prohibited by
 
 **Who is eligible for a CPL?**
 
-Anyone who is at least 21 years old and not otherwise prohibited by state or federal law from possesing firearms. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) part (1) (a-g) for the list of disqualifying factors.
+Anyone who is at least 21 years old and not otherwise prohibited by state or federal law from possessing firearms. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) part (1) (a-g) for the list of disqualifying factors.
 
 **Are non-residents eligible for a CPL?**
 
@@ -376,13 +376,13 @@ Unfortunately, most police and sheriff offices are closed right now and not acce
 
 **Is carrying a loaded firearm in a vehicle legal?**
 
-A person with a valid CPL may possess a loaded pistol in a vehicle. Otherwise placing or possessing a loaded pistol in any vehicle is illegal. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) part (2). See RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (17) for the state defintion of *loaded*, but generally this means no ammuntion in the chamber, cylinder, or in a magazine inserted in the action. It does not include loaded magazines which are removed from the firearm.
+A person with a valid CPL may possess a loaded pistol in a vehicle. Otherwise placing or possessing a loaded pistol in any vehicle is illegal. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) part (2). See RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (17) for the state definition of *loaded*, but generally this means no ammunition in the chamber, cylinder, or in a magazine inserted in the action. It does not include loaded magazines which are removed from the firearm.
 
 Long guns may not be loaded in a vehicle except for hunters granted a disability designation while hunting and otherwise in compliance with hunting regulations. See RCW [77.15.460](https://apps.leg.wa.gov/RCW/default.aspx?cite=77.15.460). Note that in this specific case loaded detachable clips or magazines may not be attached to the rifle or shotgun, either.
 
 **Does this apply to public transportation?**
 
-In my opinion, yes. State law doesn't contain an exemption for public transportation in the laws prohibiting placing or possesing a loaded firearm in any vehicle. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) part (2).
+In my opinion, yes. State law doesn't contain an exemption for public transportation in the laws prohibiting placing or possessing a loaded firearm in any vehicle. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) part (2).
 
 **Are there any exemptions?**
 
@@ -390,7 +390,7 @@ Yes. See the exceptions listed in RCW [9.41.060](https://apps.leg.wa.gov/RCW/def
 
 **Does state law require separating guns and ammo in a vehicle?**
 
-No. State law only requires that guns are not loaded in a vehicle, except for pistols with a valid CPL. In general, a gun is considered unloaded if there is no ammuntion in the action, cylinder, or fixed magazine. Detachable magazines do not need to be unloaded themselves, but they cannot be inserted into the action of the firearm and, for long guns, they cannot be attached to the firearm. See RCW [9.41.010](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (17) for the general definition of *loaded* and RCW [77.15.460](https://app.leg.wa.gov/RCW/default.aspx?cite=77.15.460) for part (5) for when a long gun in a vehicle is considered unloaded.
+No. State law only requires that guns are not loaded in a vehicle, except for pistols with a valid CPL. In general, a gun is considered unloaded if there is no ammunition in the action, cylinder, or fixed magazine. Detachable magazines do not need to be unloaded themselves, but they cannot be inserted into the action of the firearm and, for long guns, they cannot be attached to the firearm. See RCW [9.41.010](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (17) for the general definition of *loaded* and RCW [77.15.460](https://app.leg.wa.gov/RCW/default.aspx?cite=77.15.460) for part (5) for when a long gun in a vehicle is considered unloaded.
 
 **Can an AR pistol be transported loaded in a vehicle with a valid CPL?**
 
@@ -404,7 +404,7 @@ Generally, yes, RCW [9.41.280](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41
 
 **Are firearms prohibited in day care facilities?**
 
-Effective June 11, 2020, yes. State law will prohibit possession of any firearm on the grounds of day care facilities similar to how RCW [9.41.280](https://apps.leg.wa.gov/billsummary?year=2020&billnumber=5434&initiative=false) prohibits possesion on school grounds. It will also contain similar exemptions for CPL holders while dropping off or picking up children and for firearms secured and obscured within vehicles. This is the result of [SB 5434](https://apps.leg.wa.gov/billsummary?year=2020&billnumber=5434&initiative=false) which passed this year but has not yet been codified in RCW.
+Effective June 11, 2020, yes. State law will prohibit possession of any firearm on the grounds of day care facilities similar to how RCW [9.41.280](https://apps.leg.wa.gov/billsummary?year=2020&billnumber=5434&initiative=false) prohibits possession on school grounds. It will also contain similar exemptions for CPL holders while dropping off or picking up children and for firearms secured and obscured within vehicles. This is the result of [SB 5434](https://apps.leg.wa.gov/billsummary?year=2020&billnumber=5434&initiative=false) which passed this year but has not yet been codified in RCW.
 
 **Are there any other locations where firearms are prohibited?**
 
