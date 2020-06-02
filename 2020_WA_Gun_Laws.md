@@ -132,7 +132,7 @@ No. RCW [9.41.240](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.240) part 
 
 **How should a dealer classify AR-15 lower receivers or pistol frames during a transfer?**
 
-Genearlly, lowers, pistol frames, and other receivers, whether completed or stripped, should be transferred as an *other firearm* by the dealer as they do not yet meet the federal or state definitions of a *pistol* or a *rifle*.
+Generally, lowers, pistol frames, and other receivers, whether completed or stripped, should be transferred as an *other firearm* by the dealer as they do not yet meet the federal or state definitions of a *pistol* or a *rifle*.
 
 **Do the *semiautomatic assault rifle* provisions of I-1639 apply to AR-15 lower receivers?**
 
