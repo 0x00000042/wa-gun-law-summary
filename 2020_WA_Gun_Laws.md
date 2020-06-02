@@ -84,7 +84,7 @@ Yes. However, recent legislative changes have caused some confusion and, in my o
 
 **How do the *untraceable firearm* and *undetectable firearm* laws affect 80% and polymer lowers?**
 
-In my opinion, they don't. I do not believe lowers are *firearms* under state definition -- see RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (11) -- so they cannot be *undetectable firearms* or *untraceable firearms* on their own. However, a complete gun made from such a lower could be subject to those laws depending on how it's constructed.
+In my opinion, they don't. I do not believe lowers are *firearms* under state definition -- see RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (11) -- so they could not be *undetectable firearms* or *untraceable firearms* on their own. However, a complete gun made from such a lower could be subject to those laws depending on how it's constructed.
 
 **Can vendors ship 80% lowers to Washington residents?**
 
