@@ -1,6 +1,6 @@
 ## Disclaimer
 
-**I am not a lawyer nor an expert**. While I'm confident overall in my interpretation of state firearms law, I cannot guarantee 100% accuracy and am not equipped nor willing to defend anyone in court. I suggest you read the referenced sources yourself and come to your own understanding. If you have any specific questions regarding personal situations, ask an actual lawyer. Also, due to the Reddit character limit, I am not able to go in depth on these. If you have any questions feel free to ask in the comments.
+**I am not a lawyer nor an expert**. While I'm confident overall in my interpretation of state firearms law, I cannot guarantee 100% accuracy. **I cannot and will not defend you in court**. I suggest you read the referenced sources yourself and come to your own understanding. If you have any specific questions regarding personal situations, ask an actual lawyer. Also, due to the Reddit character limit, I am not able to go in depth on these. If you have any questions feel free to ask in the comments.
 
 ## General Information
 
