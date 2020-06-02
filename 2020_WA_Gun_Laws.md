@@ -80,7 +80,7 @@ No, they are prohibited outright by RCW [9.41.190](https://apps.leg.wa.gov/RCW/d
 
 **Are 80% lowers and frames legal to possess?**
 
-Yes. However, recent legislative changes have caused some confusion and, in my opinion, some people and businesses have interpreted these incorrectly.
+Yes. However, [HB 1739](https://app.leg.wa.gov/billsummary?BillNumber=1739&Year=2019) passed last year has caused some confusion, in particular with RCW [9.41.325](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.325).
 
 **How do the *untraceable firearm* and *undetectable firearm* laws affect 80% and polymer lowers?**
 
