@@ -444,7 +444,7 @@ Technically, no. However, RCW [9.41.360](https://apps.leg.wa.gov/rcw/default.asp
 
 Again, technically, no. However not doing so may result in criminal charges under RCW [9.41.360](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.360). Specifically, the unlawful entry exemption in (3) (d) does not apply if the stolen guns are not reported within 5 days of discovering the theft.
 
-## Using or Displaying Foorce
+## Using or Displaying Force
 
 **What constitutes deadly force?**
 
