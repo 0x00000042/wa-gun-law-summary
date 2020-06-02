@@ -1,14 +1,12 @@
 ## Disclaimer
 
-**Let me start by clarifying that I am not a lawyer nor an expert. While I'm confident overall in my interpretation of state firearms law, I cannot guarantee 100% accuracy and am not equipped nor willing to defend anyone in court.** I suggest you read the referenced sources yourself and come to your own understanding, and if you have any specific questions regarding personal situations, ask an actual lawyer.
+**I am not a lawyer nor an expert**. While I'm confident overall in my interpretation of state firearms law, I cannot guarantee 100% accuracy and am not equipped nor willing to defend anyone in court. I suggest you read the referenced sources yourself and come to your own understanding. If you have any specific questions regarding personal situations, ask an actual lawyer. Also, due to the Reddit character limit, I am not able to go in depth on these. If you have any questions feel free to ask in the comments.
 
 ## General Information
 
 **Does the State Constitution protect the right to keep and bear arms?**
 
-Yes. Article I, Section 24 of the [State Constitution](http://leg.wa.gov/CodeReviser/Pages/WAConstitution.aspx) specifies:
-
-> **SECTION 24 RIGHT TO BEAR ARMS.** The right of the individual citizen to bear arms in defense of himself, or the state, shall not be impaired, but nothing in this section shall be construed as authorizing individuals or corporations to organize, maintain or employ an armed body of men.
+Yes. See Article I, Section 24 of the [State Constitution](http://leg.wa.gov/CodeReviser/Pages/WAConstitution.aspx).
 
 **Where can I find state laws on firearms?**
 
@@ -34,11 +32,11 @@ No. MGs are prohibited outright in RCW [9.41.190](https://apps.leg.wa.gov/RCW/de
 
 **Are *Any Other Weapons* (AOWs) legal?**
 
-Generally yes. State law doesn't define AOW and doesn't otherwise prohibit them. Of course they must otherwise comply with federal NFA requirements.
+Generally yes. State law doesn't define these and doesn't otherwise prohibit them. Of course they must otherwise comply with federal NFA requirements.
 
 **Are destructive devices legal?**
 
-Generally yes. State law doesn't define DD and doesn't otherwise prohibit them. Of course they must otherwise comply with federal NFA requirements.
+Generally yes. State law doesn't define these and doesn't otherwise prohibit them. Of course they must otherwise comply with federal NFA requirements.
 
 ## Bump Stocks
 
@@ -50,19 +48,17 @@ No. Bump-stocks are prohibited outright in RCW [9.41.190](https://apps.leg.wa.go
 
 **Are standard capacity magazines legal?**
 
-Yes. Washington has no magazine capacity restrictions. However, legislation restricting capacity is introduced nearly every legislative session and got very close to passing earlier this year.
+Yes. Washington has no magazine capacity restrictions.
 
 ## *Semiautomatic Assault Rifles*
 
-**What is a** ***semiautomatic assault rifle*****?**
+**What is a *semiautomatic assault rifle*?**
 
 Simply, any semiautomatic rifle. The full definition is located in RCW [9.41.010](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (26), but the definition applies to any semiautomatic rifle except for antiques, deactivated firearms, and manually operated rifles. There is no exception for caliber or magazine types, so even a tube-fed .22LR rifle meets the definition if it's semiautomatic.
 
-**Are there any specific rules on semiautomatic assault rifles?**
-
 ## *Untraceable Firearms*
 
-**What is an untraceable firearm?**
+**What is an *untraceable firearm*?**
 
 Generally, any firearm made after July 1, 2019 without a serial number applied by a licensed manufacturer. See RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (34) for the complete definition.
 
@@ -72,7 +68,7 @@ Yes, except when made with intent to sell. See RCW [9.41.190](https://apps.leg.w
 
 ## *Undetectable Firearms*
 
-**What is an undetectable firearm?**
+**What is an *undetectable firearm*?**
 
 Generally, any firearm that is not equivalently detectable to a specific example steel alloy by a metal detector or any firearm where the major components are not identifiable as such in an x-ray machine. See RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (32) for the complete definition.
 
@@ -88,19 +84,17 @@ Yes. However, recent legislative changes have caused some confusion and, in my o
 
 **How do the *untraceable firearm* and *undetectable firearm* laws affect 80% and polymer lowers?**
 
-In my opinion, it doesn't. I do not believe lowers are *firearms* under state definition so they cannot be *undetectable firearms* or *untraceable firearms* on their own. However, a complete gun made from such a lower could meet those definitions depending on how it's constructed. See RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (11) for the complete definition of a *firearm*.
+In my opinion, they don't. I do not believe lowers are *firearms* under state definition -- see RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) part (11) -- so they cannot be *undetectable firearms* or *untraceable firearms* on their own. However, a complete gun made from such a lower could be subject to those laws depending on how it's constructed.
 
 **Can vendors ship 80% lowers to Washington residents?**
 
-Yes. However some choose not to because of RCW [9.41.325](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.325) which prohibits helping a prohibited person acquire or make an *undetectable firearm* or *untraceable firearm* and considers failure to run a background check evidence of recklessness in that regard. It should be noted that failure to run a background check is not a crime in itself here, but it is undisputable evidence of recklessness for a charge of violating this statute. As a result, some vendors have decided to avoid any potential risks by refusing to ship to our state.
+Yes. However some choose not to because of RCW [9.41.325](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.325) which prohibits helping a prohibited person acquire or make an *undetectable firearm* or *untraceable firearm* and considers failure to run a background check evidence of recklessness in that regard. It should be noted that failure to run a background check is not a crime in itself here, but it is evidence of recklessness for a charge of violating this statute. As a result, some vendors have decided to avoid any potential risks by refusing to ship to our state.
 
 ## Purchasing
 
 **Is there a waiting period when purchasing firearms?**
 
-Yes and no. RCW [9.41.092](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.092) part (1) requires a dealer to wait until either approval of all required background checks or ten business days have elapsed, whichever happens first, before delivering any firearm other than a *semiautomatic assault rifle*.
-
-For a *semiautomatic assault rifle*, RCW [9.41.092](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.092) part (2) requires a dealer to wait until ten business days have elapsed even if background checks are approved earlier.
+Yes and no. RCW [9.41.092](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.092) part (1) requires a dealer to wait until either approval of all required background checks or ten business days have elapsed, whichever happens first, before delivering any firearm other than a *semiautomatic assault rifle*. For a *semiautomatic assault rifle*, part (2) requires a dealer to wait until ten business days have elapsed even if background checks are approved earlier.
 
 **Even for CPL holders?**
 
@@ -128,7 +122,7 @@ No. RCW [9.41.240](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.240) part 
 * Yearly background checks — *RCW [9.41.139](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.139)*
 * Up to ten business day wait or approval, whichever occurs first — *RCW [9.41.092](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.092) (1)*
 
-**What is the process for purchasing a shotgun, manual action rifle, or** ***other*** **type firearm?**
+**What is the process for purchasing a shotgun, manual action rifle, or *other* type firearm?**
 
 * Federal [form 4473](https://www.atf.gov/file/61446/download)
 * An on-the-spot background check through the federal NICS
@@ -136,41 +130,33 @@ No. RCW [9.41.240](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.240) part 
 
 ## Frames and Receivers
 
-**How should a dealer classify AR-15 lower receivers during a transfer?**
+**How should a dealer classify AR-15 lower receivers or pistol frames during a transfer?**
 
-Lowers, whether completed or stripped, should be transferred as an *other firearm* by the dealer as they do not yet meet the federal or state definitions of a *pistol* or a *rifle*.
+Genearlly, lowers, pistol frames, and other receivers, whether completed or stripped, should be transferred as an *other firearm* by the dealer as they do not yet meet the federal or state definitions of a *pistol* or a *rifle*.
+
+**Do the *semiautomatic assault rifle* provisions of I-1639 apply to AR-15 lower receivers?**
+
+No. A lower does not meet the state definition of a *rifle* or *semiautomatic assault rifle* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (23) and (26).
+
+**Do the state requirements on *pistol* transfers apply to pistol frames?**
+
+No. A pistol frame does not meet the state definition of a *pistol* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (22).
 
 **Is an AR-15 lower receiver with attached stock considered a *rifle*?**
 
 No. The ATF has specified that a lower is not a rifle until assembled with a barreled action. See [this article](https://www.typicalshooter.com/atf-putting-a-stock-on-an-ar-15-lower-does-not-make-it-a-rifle/) for more.
 
-**Do the** ***semiautomatic assault rifle*** **provisions of I-1639 apply to AR-15 lower receivers?**
+**Are upper receivers considered *firearms* subject to background check and transfer regulations?**
 
-No. A lower does not meet the state definition of a *rifle* or *semiautomatic assault rifle* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (23) and (26).
+No. Upper receivers are unregulated by both federal and state law and may be shipped directly to your door.
 
-**Are upper receivers considered** ***firearms*** **subject to background check and transfer regulations?**
+**Aren't *frames and receivers* going to be subject to the state background check process similar to pistols soon?**
 
-No. Upper receivers are unregulated by both federal and state law and may be shipped directly to your door. [See also](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fqqig1m/).
-
-**How should a dealer classify pistol frames during a transfer?**
-
-Pistol frames, whether completed or stripped, should generally be transferred as an *other firearm* by the dealer as they do not yet meet the federal or state definitions of a *pistol*.
-
-**Aren't** ***frames and receivers*** **going to be subject to the state background check process similar to pistols soon?**
-
-Yes. The Legislature passed [HB 2555](https://app.leg.wa.gov/billsummary/?billNumber=2555&year=2020&initiative=False) earlier this year. It will require any *firearm frame or receiver* to be transferred similarly to pistols, though the annual background check provisions will not apply. Part (2) of that bill defines *firearm frame or receiver* to mirror the federal definition. 
-
-**When will** ***frames and receivers*** **be subject to the these changes**?
-
-Thirty days after the state centralized system becomes available.
+Yes. The Legislature passed [HB 2555](https://app.leg.wa.gov/billsummary/?billNumber=2555&year=2020&initiative=False) earlier this year. It will require any *firearm frame or receiver* to be transferred similarly to pistols starting thirty days after the state centralized system becomes available.
 
 **What happens on July 1st with lowers and other frames or receivers?**
 
-Currently we don't know. The FBI and the state came to an agreement last year for the FBI to continue to run background checks for *others* until July 1, 2020 to give time for the state to take over responsibility. However, the state system will not be ready by July 1 and will need to come to agreement on another extension. If no extension is granted, then dealers will have no means to legally transfer an *other* type firearm until the state system becomes available, though I find that situation unlikely.
-
-**Do the state requirements on** ***pistol*** **transfers apply to pistol frames?**
-
-No. A pistol frame does not meet the state definition of a *pistol* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) (22).
+Currently we don't know. The FBI and the state came to an agreement last year for the FBI to continue to run background checks for *others* until July 1, 2020 to give time for the state to take over responsibility. However, the state system will not be ready by July 1 and so the state will need to come to agreement on another extension. If no extension is granted, then dealers will have no means to legally transfer an *other* type firearm until the state system becomes available, though I find that situation unlikely.
 
 ## Curio & Relics
 
@@ -178,15 +164,13 @@ No. A pistol frame does not meet the state definition of a *pistol* in RCW [9.41
 
 Yes. RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part (4)(i) exempts transfers of C&R firearms to someone who holds a valid C&R license. Federal law also exempts C&R transfers from the typical dealer background check process.
 
-**Is a C&R-eligible semautomatic rifle subject to the** ***semiautomatic assault rifle*** **provisions of I-1639**?
+**Is a C&R-eligible semautomatic rifle subject to the *semiautomatic assault rifle* provisions of I-1639**?
 
-This is a complicated question with no definite answer. In my opinion, partially. RCW [9.41.113](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.113) (4)(i) exempts C&R purchases from the background check requirements. However, RCW [9.41.090](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.090) requires a dealer to receive proof of training before delivering any *semiautomatic assault rifle* with no exemptions.
-
-See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
+This is a complicated question with no definite answer. In my opinion, partially. See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
 
 **Can a C&R holder purchase a C&R-eligible *semiautomatic assault rifle* and walk away with it the same day?**
 
-I don't have an official answer, but in my opinion no. RCW [9.41.092](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.092) requires the dealer to wait ten business days before delivering any semiautomatic rifle, but, importantly, the clock starts when the buyer submits a purchase application or a background check is initiated for a transfer. And since a C&R transfer is exempt from the background check provisions, I do not believe the transfer window applies.
+I don't have an official answer, but in my opinion no. See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
 
 ## Health Information Waiver
 
@@ -206,9 +190,7 @@ In addition, RCW [9.41.097](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.09
 
 **What counts as residency for gun purchases?**
 
-State law doesn't address this, but federal law considers the buyer a resident of whichever state they are currently residing in. Active-duty military members are considered a resident of whichever state their permanent duty station is located in, and college students are considered a resident of the state where they live and attend school during the school year. See [this ATF FAQ](https://www.atf.gov/firearms/qa/what-constitutes-residency-state) for more information on residency for gun purchases.
-
-Keep in mind this is different than residency for other purposes like taxation, voting, or in-state tuition rates. Those have different qualifications.
+State law doesn't address this, but federal law considers the buyer a resident of whichever state they are currently residing in. Active-duty military members are considered a resident of whichever state their permanent duty station is located in, and college students are considered a resident of the state where they live and attend school during the school year, and of their home state when returning home for breaks. See [this ATF FAQ](https://www.atf.gov/firearms/qa/what-constitutes-residency-state) for more information on residency for gun purchases. Keep in mind this is different than residency for other purposes like taxation, voting, or in-state tuition rates. Those have different definitions.
 
 ## Out-of-state Purchases
 
@@ -216,15 +198,13 @@ Keep in mind this is different than residency for other purposes like taxation, 
 
 Yes, however the gun must be delivered to a dealer in Washington first who will then process and deliver the firearm to the purchaser according to federal and state law.
 
-**Can a Washington resident purchase guns in other states?**
+**Can a Washington resident purchase guns in person in other states?**
 
 Depending on the type of gun, yes. RCW [9.41.122](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.122) allows Washington residents to purchase a rifle or shotgun in another state. Under federal law, a resident of one state may purchase a rifle or shotgun in another state provided the sale complies with the "legal conditions of sale" in both states.
 
 **Can a Washington resident purchase a *semiautomatic assault rifle* in another state**?
 
-As a matter of academic legal discussion, possibly, there's room for interpretation and debate about state and federal law here. However, as a matter of practice, no.
-
-Federal law allows a resident of one state to purchase a rifle or shotgun from a dealer in another state provided the sale complies with the "legal conditions of sale" of both states. The ATF has interpreted this to preclude Washington residents from purchasing semiautomatic rifles in another state and has explicitly told FFLs in other states not to perform transfers of semiautomatic rifles to Washington residents.
+As a matter of academic legal discussion, possibly, there's room for interpretation and debate about state and federal law here. However, as a matter of practice, no. Federal law allows a resident of one state to purchase a rifle or shotgun from a dealer in another state provided the sale complies with the "legal conditions of sale" of both states. The ATF has interpreted this to preclude Washington residents from purchasing semiautomatic rifles in another state and has explicitly told FFLs in other states not to perform transfers of semiautomatic rifles to Washington residents.
 
 ## Purchases by Non-residents
 
@@ -244,33 +224,7 @@ Thirty days after the WSP notifies dealers that the system is available. We don'
 
 **What will the sale or transfer process be in the new state system?**
 
-For semiautomatic rifles:
-
-* Proof of safety training completed within the last five years — *RCW [9.41.090](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.090) (2) (a)*
-* A completed [firearm transfer application](https://www.dol.wa.gov/forms/652001.pdf) — *RCW [9.41.090](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.090) (6)*
-* A background check conducted through the new WSP system
-* An $18 fee — *RCW [9.41.090](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.090) (7)*
-* An implied waiver of health data confidentiality — *RCW [9.41.094](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.094)*
-* Yearly background checks — *RCW [9.41.139](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.139)*
-* Mandatory ten business day wait — *RCW [9.41.092](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.092) (2)*
-
-For pistols:
-
-* A completed [firearm transfer application](https://www.dol.wa.gov/forms/652001.pdf) — *RCW [9.41.090](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.090) (6)*
-* A background check conducted through the new WSP system
-* An implied waiver of health data confidentiality — *RCW [9.41.094](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.094)*
-* Yearly background checks — *RCW [9.41.139](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.139)*
-* Up to ten business day wait or approval, whichever occurs first — *RCW [9.41.092](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.092) (1)*
-* A fee up to $18
-
-For all other firearms:
-
-* A completed [firearm transfer application](https://www.dol.wa.gov/forms/652001.pdf) — *RCW [9.41.090](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.090) (6)*
-* A background check conducted through the new WSP system
-* An implied waiver of health data confidentiality — *RCW [9.41.094](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.094)*
-* Yearly background checks — *RCW [9.41.139](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.139)*
-* Up to ten business day wait or approval, whichever occurs first — *RCW [9.41.092](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.092) (1)*
-* A fee up to $18
+Roughly the same as the current process for *pistols*. There will be a firearm transfer application for all firearms, the implied waiver of health data confidentiality, up to ten business day wait, and the dealer will submit the paperwork to the WSP in all cases. There will also be a fee up to $18 on all background checks to pay for the system. And the provision of I-1639 will still apply to semiautomatic rifles, though the old fee will be replaced by the new fee.
 
 ## Annual Background Checks
 
@@ -304,11 +258,11 @@ Generally, yes. RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.4
 
 **Are sales to friends and relatives exempt from the background check requirements?**
 
-No. Only sales of antiques or C&R sales are exempt. See RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part (4).
+No. See RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part (4).
 
 **Are gifts and loans to friends and relatives exempt from the background check requirements?**
 
-*Bona fide* gifts and loans to immediate family are exempt by RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) (4) (a). In general, other gifts and loans are not except for in the temporary situations listed in (4) (c), (d), and (g). However beware this only applies if both persons are residents of Washington.
+*Bona fide* gifts and loans to immediate family are exempt by RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) (4) (a). In general, other gifts and loans are not except for the temporary situations listed in (4) (c), (d), and (g). However beware this only applies if both persons are residents of Washington.
 
 **Is a C&R transfer exempt from the background check requirements?**
 
@@ -326,7 +280,7 @@ Yes. For instance, a temporary transfer between spouses or a temporary transfer 
 
 In my opinion, no. I do not believe a lower meets the definition of a *firearm* under state definition RCW [9.41.010](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.010) part (11). If true, this means it's not subject to state *firearm* laws, including universal background checks.
 
-**However**, it is still safest for your legal future to transfer a lower through an FFL just as you would any other firearm and I highly advise speaking with a personal lawyer before deciding to transfer lowers without a background check. A lower is still a *firearm* under federal law, and while federal law does not require background checks for firearm transfers between residents of the same state, I would not rely on others to understand the distinction between federal and state definitions and where one applies versus the other.
+**However, I highly advise speaking with a personal lawyer before deciding to transfer lowers without a background check**. It is still safest for your legal future to transfer a lower through an FFL just as you would any other firearm. A lower is still a *firearm* under federal law, and while federal law does not require background checks for firearm transfers between residents of the same state, I would not rely on others to understand the distinction between federal and state definitions and where one applies versus the other.
 
 ## Interstate Transfers
 
@@ -338,24 +292,11 @@ Federal law requires a dealer to facilitate a transfer between residents of diff
 
 No. Federal law has no exemption to interstate transfer rules for gifts, even between family members.
 
-## Transfers to Federally Licensees
-
-**Can I legally transfer my gun to an Oregonian or Idahoan gunsmith?**
-
-Yes. Under federal law [18 U.S. Code § 921 (a)(11)](https://www.law.cornell.edu/uscode/text/18/921) a gunsmith is considered a dealer, and under [18 U.S. Code § 922 (a)(3)](https://www.law.cornell.edu/uscode/text/18/922#a)
-a licensed dealer may receive a firearm from a resident of any state. 
-
-Under federal law [18 U.S. Code § 922 (a) (2) (A)](https://www.law.cornell.edu/uscode/text/18/922#a_2), a licensed dealer may return a repaired or replacement firearm to the person from whom it was received without needing to run a background check. In addition, state law RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) (4)(f) exempts the return of a repaired or replacement firearm from the background check requirements.
-
-**Can an individual ship a firearm to a federal licensee?**
-
-Yes. An unlicensed individual may ship guns directly to an FFL in any state. Shotguns or rifles may be shipped via the USPS or a contract carrier (e.g. UPS, FedEx), while handguns and other firearms may only be shipped by a contract carrier. However, each carrier will have their own policies which you'll need to check before hand, and most carriers will not accept firearms at their retail centers, only distribution centers. Finally, some dealers will not accept shipments from unlicensed persons, so be sure to check the policies of the receiving dealer before shipping.
-
 ## Moving to WA
 
 **What guns and accessories can be brought into Washington during a move?**
 
-The state currently only prohibits machine guns, short barreled shotguns, bump-stocks, and *undetectable firearms*. See above for more on *undetectable firearms*, but briefly this would include a complete gun that is not detctable in a metal detector or not identifiable on an x-ray machine. These have also been illegal under federal law for awhile, so you most likely do not have one.
+The state currently only prohibits machine guns, short barreled shotguns, bump-stocks, and *undetectable firearms*. See above for more on *undetectable firearms*, but these have also been illegal under federal law for awhile so you most likely do not have one.
 
 **Do guns needs to be registered after moving?**
 
@@ -363,7 +304,7 @@ No. Washington does not have an ownership registry. We have a *de facto* transfe
 
 **Does state law require anything else to maintain legal possession after moving?**
 
-No, other than not becoming a prohibited person. There is no paperwork or anything you need to file to keep guns you previously owned in another state after moving into Washington.
+No, there is no paperwork or anything you need to file to keep guns you previously owned in another state after moving into Washington.
 
 **How does someone establish residency for gun purchases in Washington?**
 
@@ -377,7 +318,7 @@ There is no wait. You can begin purchasing guns in Washington as a resident as s
 
 **Is open carry legal?**
 
-Generally, yes. As far as I know state law makes zero mention of open carry. There are some location and age-based possession restrictions, however.
+Generally, yes. As far as I know state law makes zero mention of open carry. There are some location and age-based possession restrictions, however. More on that later.
 
 **Can cities or counties implement their own restrictions on open carry?**
 
@@ -387,9 +328,7 @@ No. RCW [9.41.290](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.290) establ
 
 **Is concealed carry legal?**
 
-For a pistol, yes, though you generally need a Concealed Pistol License. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for more information.
-
-For long guns, I'm not sure exactly. State law doesn't address this one way or the other, though federal regulation considers firearms with overall length of 26 inches or more not *concealable*. I believe this implies that long guns cannot be *concealed*, however this is an area of federal and state law that I'm not very familiar with so I could be wrong.
+For a pistol, yes, though you generally need a Concealed Pistol License. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for more information and RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for a list of exceptions.
 
 **Is a CPL required to carry concealed at home?**
 
@@ -407,13 +346,11 @@ No. RCW [9.41.290](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.290) establ
 
 **What is the process for obtaining a CPL?**
 
-Generally, obtaining a CPL requires filling out an application, providing fingerprints, and paying a fee of $36 plus whatever the fingerprinting costs.
-
-See also RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) for the full CPL requirements and [this DOL information page](https://www.dol.wa.gov/business/firearms/ faconcealreq.html) for a summary.
+Generally, obtaining a CPL requires filling out an application, providing fingerprints, and paying a fee of $36 plus whatever the fingerprinting costs. See also RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) for the full CPL requirements and [this DOL information page](https://www.dol.wa.gov/business/firearms/faconcealreq.html) for a summary.
 
 **How long does it take to get a CPL?**
 
-By law the issuing authority must issue a CPL within 30 days, except when the application hasn't been a resident of the state for at least 90 days or when the application doesn't have a state provided ID, then the issuing authority has 60 days to issue. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) (1).
+By law the issuing authority must issue a CPL within 30 days, unless the applicant hasn't been a resident of the state for at least 90 days or doesn't have a state provided ID, in which case the issuing authority has 60 days to issue. See RCW [9.41.070](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.070) (1).
 
 **Is Washington a shall-issue state?**
 
@@ -449,7 +386,7 @@ In my opinion, yes. State law doesn't contain an exemption for public transporta
 
 **Are there any exemptions?**
 
-Yes. The provisions of RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) which require a CPL do not apply in the scenarios listed in RCW [9.41.060](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.060). In particular, part (8) provides that a CPL is not needed to carry a loaded pistol on your person or in a vehicle while engaging in lawful outdoor activity or traveling to or from a legitimate outdoor recreation area.
+Yes. See the exceptions listed in RCW [9.41.060](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.060).
 
 **Does state law require separating guns and ammo in a vehicle?**
 
@@ -471,7 +408,7 @@ Effective June 11, 2020, yes. State law will prohibit possession of any firearm 
 
 **Are there any other locations where firearms are prohibited?**
 
-Yes. RCW [9.41.300](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.300) part (1) prohibits possession of any firearm in other places, including jails; court rooms; mental health facilities; bars, lounges, and cannabis shops; airports; and others, though common entry areas are usually exempted. 
+Yes. RCW [9.41.300](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.300) part (1) prohibits possession of any firearm in other places, including jails; court rooms; mental health facilities; bars, lounges, and cannabis shops; airports; and others, though common entry areas are usually exempted.
 
 RCW [9.41.300](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.300) part (2) (b) allows cities, towns, and counties to prohibit possession of a firearm inside a stadium or convention center operated by a city, town or county, but exempts CPL holders in possession of a pistol.
 
@@ -483,7 +420,7 @@ Only for the situations mentioned above. Otherwise, no, but trespassing law stil
 
 **Can a person under 18 possess a firearm?**
 
-Generally, no. RCW [9.41.040](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.040) (2) (a) (vi) prohibits possession of any firearm by someone under 18 except as provided in RCW [9.41.042](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.042). These exceptions include situations like safety courses, target shooting, competition, hunting, while on a parent or relative's private property with permission, while being supervised in an area that permits the discharge of a firearm, or in self defense in the home.
+Generally, no, but there are exceptions. RCW [9.41.040](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.040) (2) (a) (vi) prohibits possession of any firearm by someone under 18 except as provided in RCW [9.41.042](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.042).
 
 **Can someone at least 18 but not yet 21 possess a pistol?**
 
@@ -501,9 +438,7 @@ In general, any locking box, safe, or other container should qualify. See RCW [9
 
 **Does state law require guns be stored in secure storage?**
 
-Technically, no. However, RCW [9.41.360](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.360) can provide criminal penalties if a prohibited person actually gains access to guns and uses them to injure, kill, threaten, intimidate, endanger others, or to commit additional crimes.
-
-But there are exceptions provided in part (3) including when the guns were stored in *secure storage* or when the guns were taken as a result of unlawful entry, provided that the owner reports the theft within 5 days of the time they discovered it.
+Technically, no. However, RCW [9.41.360](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.360) can provide criminal penalties if a prohibited person actually gains access to guns and uses them to injure, kill, threaten, intimidate, endanger others, or to commit additional crimes. But there are exceptions provided in part (3) including when the guns were stored in *secure storage* or when the guns were taken as a result of unlawful entry, provided that the owner reports the theft within 5 days of discovering it.
 
 **Does state law require reporting stolen guns?**
 
@@ -517,7 +452,7 @@ RCW [9A.16.010](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.16.010) (2) defi
 
 **When is force justified?**
 
-RCW [9A.16.020](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.16.020) specifies when force is justified. Parts (3) and (4) are likely the most common justifications for a private individual not otherwise working law enforcement or security. Beware that while part (3) allows using force to prevent or resist injury or other offenses against you, it specifies this is only justified when the force is no more than necessary.
+RCW [9A.16.020](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.16.020) specifies when force is justified. Parts (3) and (4) are likely the most common justifications for a private individual not otherwise working law enforcement or security. Beware that part (3) only allows using force to prevent or resist injury or other offenses against you when the force is no more than necessary.
 
 **When is deadly force justified?**
 
@@ -527,14 +462,8 @@ RCW [9A.16.050](https://app.leg.wa.gov/rcw/default.aspx?cite=9A.16.050) specifie
 
 Washington state has no crime named *brandishing*. However, there are two statutes that criminalize actions commonly referred to as "brandishing".
 
-Under RCW [9.41.230](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.230) it is illegal to aim a firearm, loaded or not, at another human being and to wilfully discharge a firearm in a public place where others might be endangered. 
+Under RCW [9.41.230](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.230) it is illegal to aim a firearm, loaded or not, at another human being and to wilfully discharge a firearm in a public place where others might be endangered.
 
 Under RCW [9.41.270](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.270), except in a person's home or business or in lawful defense, it is illegal to carry, exhibit, display, or draw any deadly weapon in an intent to intimidate another or in a manner that warrants alarm for the safety of others.
 
-The courts have generally interpreted that "warrants alarm" has a reasonableness requirement, meaning that any reasonable person would also be alarmed. This is important as it defends against ridiculous claims. See [*State v. Maclolek* (1984)](https://law.justia.com/cases/washington/supreme-court/1984/49904-7-1.html), [*State v. Spencer* (1994)](http://courts.mrsc.org/appellate/075wnapp/075wnapp0118.htm), and [*State v. Owens* (2014)](https://law.justia.com/cases/washington/court-of-appeals-division-ii/2014/43702-3.html).
-
-In particular, in *Spencer*, the Court had the following to say:
-
-> [4,5] ... As the Superior Court found, the statute only prohibits the carrying or displaying of weapons when objective circumstances would warrant alarm in a reasonable person...  
-> [8] ... In addition, we adopt the Superior Court's conclusion that a reasonable person standard is incorporated into the phrase "warrants alarm"...  
-> "As the State points out, the Legislature's use of the word "warrants" in the statute implies that there must be a sufficient objective basis for the alarm, i.e., circumstances must be such that a reasonable person would be alarmed."
+The courts have generally interpreted that "warrants alarm" has a reasonableness requirement, meaning that any reasonable person would also be alarmed. This is important as it defends against frivolous claims. See [*State v. Maclolek* (1984)](https://law.justia.com/cases/washington/supreme-court/1984/49904-7-1.html), [*State v. Spencer* (1994)](http://courts.mrsc.org/appellate/075wnapp/075wnapp0118.htm), and [*State v. Owens* (2014)](https://law.justia.com/cases/washington/court-of-appeals-division-ii/2014/43702-3.html).
