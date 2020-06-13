@@ -156,7 +156,7 @@ No. Upper receivers are unregulated by both federal and state law and may be shi
 
 **Aren't *frames and receivers* going to be subject to the state background check process similar to pistols soon?**
 
-Yes. The Legislature passed [HB 2555](https://app.leg.wa.gov/billsummary/?billNumber=2555&year=2020&initiative=False) earlier this year. It will require any *firearm frame or receiver* to be transferred similarly to pistols starting thirty days after the state centralized system becomes available.
+Yes. The Legislature passed [HB 2555](https://app.leg.wa.gov/billsummary/?billNumber=2555&year=2020&initiative=False) earlier this year. This bill took effect June 11th, but it's provisions won't actually take effect until 30 days after the state centralized system becomes available. At that time, a dealer will be required to transfer a federally-defined *firearm frame or receivers* similarly to pistols through the new state system.
 
 **What happens on July 1st with lowers and other frames or receivers?**
 
