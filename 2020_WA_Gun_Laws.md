@@ -172,7 +172,7 @@ Yes. RCW [9.41.113](https://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.113) part
 
 This is a complicated question with no definite answer. In my opinion, partially. See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
 
-**Can a C&R holder purchase a C&R-eligible *semiautomatic assault rifle* and walk away with it the same day?**
+**Can a C&R holder purchase a C&R-eligible *semiautomatic assault rifle* from a dealer and walk away with it the same day?**
 
 I don't have an official answer, but in my opinion no. See [this comment chain](https://www.reddit.com/r/WA_guns/comments/ggq7zo/2020_wa_gun_law_faq_soliciting_questions/fq3x2wk/) for more discussion on this topic.
 
