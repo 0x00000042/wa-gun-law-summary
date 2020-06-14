@@ -332,7 +332,7 @@ No. RCW [9.41.290](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.290) establ
 
 **Is concealed carry legal?**
 
-For a pistol, yes, though you generally need a Concealed Pistol License. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for more information and RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for a list of exceptions.
+For a pistol, yes, though you generally need a Concealed Pistol License. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for more information and RCW [9.41.060](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.060) for a list of exceptions.
 
 **Is a CPL required to carry concealed at home?**
 
