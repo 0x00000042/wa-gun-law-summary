@@ -316,7 +316,7 @@ By moving here. As soon as you're here with an intent to make a home you are con
 
 **How long does a new resident have to wait before purchasing guns in Washington?**
 
-There is no wait. You can begin purchasing guns in Washington as a resident as soon as you have proof of residency. However, beware that for residents who have been here less than 90 days, a dealer must wait up to 60 days before delivering a pistol instead of the normal ten business days. Though they can still deliver earlier if background checks are approved earlier.
+There is no wait. You can begin purchasing guns in Washington as a resident as soon as you have proof of residency. However, beware that for residents who have been here less than 90 days, a dealer must wait up to 60 days before delivering a pistol instead of the normal ten business days. Though they can still deliver earlier if background checks are approved earlier. See RCW [9.41.092](https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.092) for more.
 
 ## Open Carry
 
