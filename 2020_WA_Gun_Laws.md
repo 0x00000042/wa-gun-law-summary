@@ -40,7 +40,7 @@ Generally yes. State law doesn't define these and doesn't otherwise prohibit the
 
 **Are destructive devices legal?**
 
-Generally yes. State law doesn't define these and doesn't otherwise prohibit them. Of course they must otherwise comply with federal NFA requirements.
+State law doesn't define these and doesn't otherwise prohibit them. However, explosives are regulated by the [State Explosives Act](https://apps.leg.wa.gov/RCW/default.aspx?cite=70.74).
 
 ## Bump Stocks
 
