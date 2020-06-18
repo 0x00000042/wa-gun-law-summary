@@ -160,7 +160,7 @@ Yes. The Legislature passed [HB 2555](https://app.leg.wa.gov/billsummary/?billNu
 
 **What happens on July 1st with lowers and other frames or receivers?**
 
-According to [this AR15.com post](https://www.ar15.com/forums/Hometown/Update-on-SHB-2555-background-check-for-firearms-OTHER/15-644955/), the FBI and the state have finally agreed to another extension and lowers will continue to be processed by the FBI on behalf of dealers. In addition, it appears the extension is indefinite pending implementation of the provisions of [HB 2555](https://app.leg.wa.gov/billsummary/?billNumber=2555&year=2020&initiative=False), so hopefully we don't face the same uncertainty again.
+According to [this AR15.com post](https://www.ar15.com/forums/Hometown/Update-on-SHB-2555-background-check-for-firearms-OTHER/15-644955/), the FBI and the state have finally agreed to another extension and lowers will continue to be processed by the FBI on behalf of dealers. According to [this more recent post](https://www.reddit.com/r/WA_guns/comments/hbmnwp/well_boys_and_girls_i_guess_we_all_have_more_time/), the extension will last until the state's new centralized background check system is available or January 31, 2023, whichever happens first.
 
 ## Curio & Relics
 
