@@ -344,7 +344,7 @@ No. State law does not require any permits or require anything else to open carr
 
 **Is open carry in a vehicle legal?**
 
-Only if you have a CPL. State law requires a CPL to possess a loaded firearm inside a vehicle, regardless of whether it is openly carried on your person or not.
+Only for *pistols* and only if you have a CPL. State law requires a CPL to possess a loaded *pistol* inside a vehicle, regardless of whether it is openly carried on your person or not. Loaded long guns are prohibited inside a vehicle.
 
 ## Concealed Carry
 
