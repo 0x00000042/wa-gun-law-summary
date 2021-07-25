@@ -254,7 +254,7 @@ Yes, but only shotguns or manual action rifles. RCW [9.41.124](https://app.leg.w
 
 **How does a resident of another state legally transfer a firearm to a Washington resident?**
 
-Federal law requires a dealer to facilitate a transfer between residents of different states. Generally this requires delivering the firearm to a dealer in the recipient's state before the recipient can take possession of it. However a rifle or shotgun can be transferred by a dealer in any state provided the firearm is legal and the transfer complies with laws of both the state of residence of the recipient and the state of business of the dealer. Note that the ATF has interpreted this to prohibit a dealer in another state from transferring a semiautomatic rifle to a resident of Washington, so those must go to a dealer in Washington first in all cases.
+Federal law requires a dealer to facilitate a transfer between residents of different states. Generally this requires delivering the firearm to a dealer in the recipient's state before the recipient can take possession of it. However a rifle or shotgun can be transferred by a dealer in any state provided the firearm is legal and the transfer complies with laws of both the state of residence of the recipient and the state of business of the dealer. 
 
 **Is there an exemption for gifts between immediate family who reside in different states?**
 
