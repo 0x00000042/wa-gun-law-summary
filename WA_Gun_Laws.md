@@ -350,7 +350,7 @@ Only for *pistols* and only if you have a CPL. State law requires a CPL to posse
 
 **Is concealed carry legal?**
 
-For a pistol, yes, though you generally need a Concealed Pistol License.
+For a pistol, yes, though you generally need a Concealed Pistol License. See RCW [9.41.050](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.050) for more info and RCW [9.41.060](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.060) for the list of exceptions.
 
 **Is a CPL required to carry concealed at home?**
 
