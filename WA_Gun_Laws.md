@@ -428,7 +428,7 @@ Generally, yes, RCW [9.41.280](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41
 
 **Are firearms prohibited in day care facilities?**
 
-Effective June 11, 2020, yes. [SB 5434](https://apps.leg.wa.gov/billsummary?year=2020&billnumber=5434&initiative=false) prohibits possession of any firearm on the grounds of day care facilities similar to how RCW [9.41.280](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.280) prohibits possession on school grounds. It also contains similar exemptions for CPL holders while dropping off or picking up children and for firearms secured and obscured within vehicles. This bill has not yet been codified into RCW on the state website, but I'll add the link here after it has.
+Yes. RCW [9.41.282](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.282) prohibits possession of any firearm on the grounds of day care facilities, but exempts CPL holders while dropping off or picking up children and firearms secured and obscured within vehicles.
 
 **Are there any other locations where firearms are prohibited?**
 
