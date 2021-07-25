@@ -242,7 +242,7 @@ Depending on the type of gun, yes. RCW [9.41.122](https://app.leg.wa.gov/RCW/def
 
 **Can a Washington resident purchase a *semiautomatic assault rifle* in another state**?
 
-As a matter of academic legal discussion, possibly, there's room for interpretation and debate about state and federal law here. However, as a matter of practice, no. Federal law allows a resident of one state to purchase a rifle or shotgun from a dealer in another state provided the sale complies with the "legal conditions of sale" of both states. The ATF has interpreted this to preclude Washington residents from purchasing semiautomatic rifles in another state and has explicitly told FFLs in other states not to perform transfers of semiautomatic rifles to Washington residents.
+As a matter of academic legal discussion, possibly, there's room for interpretation and debate about state and federal law here. However, as a matter of practice, no. Federal law allows a resident of one state to purchase a rifle or shotgun from a dealer in another state provided the sale complies with the "legal conditions of sale" of both states. It is not clear if the "conditions of sale" means only the purchase eligibility requirements on the buyer or also the delivery requirements placed on the dealer. So many dealers in other states will not transfer a semiautomatic rifle to a Washington resident to avoid any potential risk.
 
 ## Purchases by Non-residents
 
