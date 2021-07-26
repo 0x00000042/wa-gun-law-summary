@@ -62,6 +62,10 @@ Generally yes. State law doesn't define these and doesn't otherwise prohibit the
 
 State law doesn't define these and doesn't otherwise prohibit them. However, explosives are regulated by the [State Explosives Act](https://apps.leg.wa.gov/RCW/default.aspx?cite=70.74).
 
+**Are suppressors legal?**
+
+Yes, provided the suppressor is in compliance with federal law. See RCW [9.41.250](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.250) part (1)(c).
+
 ## Bump Stocks
 
 **Are bump-stocks legal?**
