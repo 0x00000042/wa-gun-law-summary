@@ -40,7 +40,7 @@ At a more detailed level. A bill usually follows these steps, though it can fall
 4. Committee decides to recommend passing, rejecting, or altering the bill  
 5. The bill (and its replacement from the committee, if any) are read a second time to the chamber at large  
 6. The chamber at large debates and amends the bill  
-7. The final revision of the bill is read a third time and the chamber at large votes on it  
+7. The first draft of the bill is read a third time and the chamber at large votes on it  
 8. If passed, the bill now goes to the other chamber  
 9. The second chamber then reads the bill for the first time to its floor  
 10. The second chamber then assigns the bill to a committee  
@@ -48,8 +48,8 @@ At a more detailed level. A bill usually follows these steps, though it can fall
 12. The second chamber committee then decides to recommend passing, rejecting, or altering the bill  
 13. The bill (and its replacement from the committee, if any) are read a second time to the second chamber at large  
 14. The second chamber at large debates and amends the bill  
-15. The final revision of the bill is read a third time and the second chamber at large votes on it  
-16. If the first and second chamber passed different variations of the bill, it goes to reconciliation where the two chambers hash out the differences and come to agreement on a final bill  
+15. The second draft of the bill is read a third time and the second chamber at large votes on it  
+16. If the first and second chamber passed different variations of the bill, it goes to reconciliation where the two chambers hash out the differences and come to agreement on a final version  
 17. The bill then goes to the Governor for signing  
 18. If the Governor refuses, the legislature can override the veto by passing it by 2/3 vote in each chamber  
 
