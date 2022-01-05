@@ -32,16 +32,37 @@ Per the [State Constitution](http://leg.wa.gov/CodeReviser/Pages/WAConstitution.
 
 The legislature maintains a [summary](http://leg.wa.gov/legislature/Pages/Bill2Law.aspx) and a [detailed overview](http://leg.wa.gov/legislature/Pages/Overview.aspx) of the process, but at its most basic form a bill becomes a law when it is passed by a simple majority in each chamber of the legislature and then signed by the governor. If the governor vetoes, the legislature can override that by passing the bill with a two-thirds majority in each chamber. 
 
+At a more detailed level. A bill usually follows these steps, though it can fall out or be rejected at any step along the way and may sometimes skip some steps. Most of these steps are not required by law, only by agreed upon convention within the legislature:
+
+1. Introduced by the primary sponsor and read for the first time to the chamber in which its introduced  
+2. Assigned to a committee in that chamber  
+3. Committee reviews the bill and holds public hearings  
+4. Committee decides to recommend passing, rejecting, or altering the bill  
+5. The bill (and its replacement from the committee, if any) are read a second time to the chamber at large  
+6. The chamber at large debates and amends the bill  
+7. The final revision of the bill is read a third time and the chamber at large votes on it  
+8. If passed, the bill now goes to the other chamber  
+9. The second chamber then reads the bill for the first time to its floor  
+10. The second chamber then assigns the bill to a committee  
+11. The second chamber committee then reviews the bill and may hold additional public hearings  
+12. The second chamber committee then decides to recommend passing, rejecting, or altering the bill  
+13. The bill (and its replacement from the committee, if any) are read a second time to the second chamber at large  
+14. The second chamber at large debates and amends the bill  
+15. The final revision of the bill is read a third time and the second chamber at large votes on it  
+16. If the first and second chamber passed different variations of the bill, it goes to reconciliation where the two chambers hash out the differences and come to agreement on a final bill  
+17. The bill then goes to the Governor for signing  
+18. If the Governor refuses, the legislature can override the veto by passing it by 2/3 vote in each chamber  
+
 **What is the current balance of power in the legislature?**
 
 The Democrats have a majority in both chambers as follows:  
 
-Senate: 29-19 (+1 vacancy after a recent death) 
+Senate: 29-19 (+1 vacancy after a recent death)  
 House: 57-41
 
 **How many votes are needed in each chamber to pass a bill?**
 
-Senate: 25 to pass, 33 to override a veto  
+Senate: 25 to pass, 33 to override a veto   
 House: 50 to pass, 66 to override a veto
 
 **How do I find out who my legislators are?**
