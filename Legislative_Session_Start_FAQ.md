@@ -57,7 +57,7 @@ At a more detailed level. A bill usually follows these steps, though it can fall
 
 The Democrats have a majority in both chambers as follows:  
 
-Senate: 29-19 (+1 vacancy after a recent death)  
+Senate: 29-19 (+1 vacancy left by [the death](https://komonews.com/news/local/washington-senator-doug-ericksen-dies-at-52) of a Republican Senator out of Whatcom County that has [not yet been filled](https://www.thenewstribune.com/news/state/washington/article257042432.html))    
 House: 57-41
 
 **How many votes are needed in each chamber to pass a bill?**
