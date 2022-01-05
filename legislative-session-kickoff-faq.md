@@ -1,4 +1,4 @@
-The 2022 legislative session is almost here, and I like to post a FAQ during session to help those who may not be familiar with the process to learn how things work. Keep in mind this is less about any particular bills and more about the legislative process itself. If you have any questions, feel free to ask in the comments. I'll be glad to help where I can, and I'm sure others will be too. Together we can better educate ourselves and understand how and when to get involved. 
+The 2022 legislative session is almost here, and I like to post a FAQ shortly before session to help those who may not be familiar with the process to learn how things work. Keep in mind this is less about any particular bills and more about the legislative process itself. If you have any questions, feel free to ask in the comments. I'll be glad to help where I can, and I'm sure others will be too. Together we can better educate ourselves and understand how and when to get involved. 
 
 **When does session start?**
 
@@ -32,7 +32,7 @@ Per the [State Constitution](http://leg.wa.gov/CodeReviser/Pages/WAConstitution.
 
 The legislature maintains a [summary](http://leg.wa.gov/legislature/Pages/Bill2Law.aspx) and a [detailed overview](http://leg.wa.gov/legislature/Pages/Overview.aspx) of the process, but at its most basic form a bill becomes a law when it is passed by a simple majority in each chamber of the legislature and then signed by the governor. If the governor vetoes, the legislature can override that by passing the bill with a two-thirds majority in each chamber. 
 
-At a more detailed level. A bill usually follows these steps, though it can fall out or be rejected at any step along the way and may sometimes skip some steps. Most of these steps are not required by law, only by agreed upon convention within the legislature:
+At a more detailed level, a bill usually follows these steps, though it can fall out or be rejected at any step along the way and may sometimes skip some steps. Most of these steps are not required by law, only by agreed upon convention within the legislature:
 
 1. Introduced by the primary sponsor and read for the first time to the chamber in which its introduced  
 2. Assigned to a committee in that chamber  
