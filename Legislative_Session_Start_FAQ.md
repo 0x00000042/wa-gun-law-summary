@@ -2,7 +2,7 @@ The 2022 legislative session is almost here, and I like to post a FAQ during ses
 
 **When does session start?**
 
-Monday, January 10th, 2022.
+January 10th, 2022.
 
 **When does session end?**
 
