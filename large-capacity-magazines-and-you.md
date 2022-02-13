@@ -64,7 +64,7 @@ No. Since the bill no longer regulates possession, it no longer requires a grand
 
 **Do I need to take photos as proof of the "large capacity magazines" I already own?**
 
-No. Since the bill no longer regulates possession, it no longer requires proof of possession before the effective date either. However, this is not a bad idea as insurance against future retroactive bans as California has done.
+No. Since the bill no longer regulates possession, it no longer requires proof of possession before the effective date either. However, this is not a bad idea as insurance against future restrictions which may require proof.
 
 **Can I carry my existing "large capacity magazines"?**
 
