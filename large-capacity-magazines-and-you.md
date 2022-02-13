@@ -46,7 +46,7 @@ Probably. If it holds more than ten rounds at once, the definition is broad enou
 
 **Why do you keep putting quotes around "large capacity magazine"?**
 
-Because it's a made up term whose only justification to exist is to implement this bill. An [amendment](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Amendments/Senate/5078-S%20AMS%20FORT%20S4477.1.pdf) to change the term to "regular capacity magazine" was proposed but rejected. 
+Because it's a made up term whose only justification to exist is to implement this bill. An [amendment](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Amendments/Senate/5078-S%20AMS%20FORT%20S4477.1.pdf) to change the term to "regular capacity magazine" was proposed but rejected.
 
 ### Possession
 
@@ -172,7 +172,7 @@ Of course.
 
 **Will sellers ignore this law?**
 
-No. Their livelihoods depend on remaining legal and it will be not hard to catch them doing this. In addition to criminal charges for each and every magazine sold or distributed in violation of this bill, the bill also considers distribution and sales, offering to distribute or sale, and facilitating distribution, sale, or transfers online as violations of the consumer protection act which opens them to lawsuits with significant financial penalties. 
+No. Their livelihoods depend on remaining legal and it will not be hard to catch them doing this. In addition to criminal charges for each and every magazine sold or distributed in violation of this bill, the bill also considers distribution and sales, offering to distribute or sale, and facilitating distribution, sale, or transfers online as violations of the consumer protection act which opens them to lawsuits with significant financial penalties. 
 
 ### Legislative Process
 
