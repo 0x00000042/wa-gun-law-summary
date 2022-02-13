@@ -176,6 +176,16 @@ Of course.
 
 No. Their livelihoods depend on remaining legal and it will not be hard to catch them doing this. In addition to criminal charges for each and every magazine sold or distributed in violation of this bill, the bill also considers distribution and sales, offering to distribute or sale, and facilitating distribution, sale, or transfers online as violations of the consumer protection act which opens them to lawsuits with significant financial penalties.
 
+### Penalties
+
+**What is the penalty for violating this law?**
+
+Anyone who violates this law is guilty of a gross misdemeanor, punishable by up to a year in county jail, a fine up to $5,000, or both under RCW [9A.20.020](https://app.leg.wa.gov/RCW/default.aspx?cite=9A.20.021) (2).
+
+**What is the statute of limitations for violations of this law?**
+
+Under RCW [9A.04.080](https://apps.leg.wa.gov/RCW/default.aspx?cite=9A.04.080) (1)(j), a gross misdemeanor may not be prosecuted more than two years after it was committed.
+
 ### Legislative Process
 
 **When would this bill take effect?**
