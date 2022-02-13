@@ -150,7 +150,7 @@ Yes. An [amendment](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Amendmen
 
 **Even during competitions?**
 
-Even during competitions. There is no exception given for transfers at competition.
+Yes. There is no exception given for transfers at competition.
 
 **Even during training?**
 
