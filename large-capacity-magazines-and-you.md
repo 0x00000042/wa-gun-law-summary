@@ -1,6 +1,6 @@
 # "Large Capacity Magazines" and You - A SB 5078 FAQ
 
-I've noticed a lot of confusion over the effects of [SB 5078](https://app.leg.wa.gov/billsummary?billnumber=5078&year=2021) in the past few days. Rather than continue to provide answers dispersed across all the various threads of conversation, I thought it useful to collate common questions and answers here in one place.
+I've noticed a lot of confusion over the effects of [SB 5078](https://app.leg.wa.gov/billsummary?billnumber=5078&year=2021) in the past few days. Rather than continue to provide answers dispersed across all the various threads of conversation, I thought it useful to collate common questions and answers here in one place. Many thanks to /u/dircs for the help in drafting this post.
 
 ### Disclaimers
 
