@@ -134,7 +134,7 @@ Probably not. Since the bill bans the sale of "large capacity magazines" and the
 
 **Is it legal to transfer "large capacity magazines" to other people?**
 
-Probably not. While the bill doesn't explicitly prohibit *transfers*, it prohibits *distribution* which is defined broadly as giving out, providing, making available, or delivering a "large capacity magazine" to any person in this state, and it doesn't
+Probably not. While the bill doesn't explicitly prohibit *transfers*, it prohibits *distribution* which is defined broadly as giving out, providing, making available, or delivering a "large capacity magazine" to any person in this state.
 
 **Even to family?**
 
