@@ -64,7 +64,7 @@ No. Since the bill no longer regulates possession, it no longer requires a grand
 
 **Do I need to take photos as proof of the "large capacity magazines" I already own?**
 
-No. Since the bill no longer regulates possession, it no longer requires proof of possession before the effective date either.
+No. Since the bill no longer regulates possession, it no longer requires proof of possession before the effective date either. However, this is not a bad idea as insurance against future retroactive bans as California has done.
 
 **Can I carry my existing "large capacity magazines"?**
 
@@ -90,7 +90,7 @@ No. This would be prohibited under the importation ban.
 
 **Could I do it anyway?**
 
-See question 2.
+See the **Disclaimers** section.
 
 **Is it legal to order "large capacity magazines" online and then ship them to Washington?**
 
@@ -98,7 +98,7 @@ No. This would be prohibited under the importation ban.
 
 **Could I do it anyway?**
 
-See question 2.
+See the **Disclaimers** section.
 
 **Is it legal to take my existing "large capacity magazines" out-of-state and then return with them?**
 
@@ -122,9 +122,9 @@ No. This would be prohibited under the importation ban.
 
 ### Repairs
 
-**Is it legal to repair a "large capacity magazine?**
+**Is it legal to repair a "large capacity magazine"?**
 
-Unknown. The bill prohibits *manufacturing* and leverages the existing definition of *manufacturing* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) which is defined broadly to include fabrication or construction. These terms are not further defined, but the common dictionary definition of "construction" typically includes combining or assembling parts together.
+Unknown. The bill prohibits *manufacturing* and leverages the existing definition of *manufacturing* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) which is defined broadly to include fabrication or construction. These terms are not further defined, but the common dictionary definition of "construction" typically includes combining or assembling parts together. See below regarding replacement parts.
 
 **Can I order replacement parts in the future?**
 
@@ -172,7 +172,7 @@ Of course.
 
 **Will sellers ignore this law?**
 
-No. Their livelihoods depend on remaining legal and it will not be hard to catch them doing this. In addition to criminal charges for each and every magazine sold or distributed in violation of this bill, the bill also considers distribution and sales, offering to distribute or sale, and facilitating distribution, sale, or transfers online as violations of the consumer protection act which opens them to lawsuits with significant financial penalties. 
+No. Their livelihoods depend on remaining legal and it will not be hard to catch them doing this. In addition to criminal charges for each and every magazine sold or distributed in violation of this bill, the bill also considers distribution and sales, offering to distribute or sale, and facilitating distribution, sale, or transfers online as violations of the consumer protection act which opens them to lawsuits with significant financial penalties.
 
 ### Legislative Process
 
@@ -204,7 +204,7 @@ February 16th at 10:00am. [Committee materials](https://app.leg.wa.gov/committee
 
 [Here](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146519&caId=19579&tId=4)
 
-**How do I sign up to provide live testimony at the hearing?**
+**How do I sign up to provide live remote testimony via Zoom at the hearing?**
 
 [Here](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146519&caId=19579&tId=2).
 
