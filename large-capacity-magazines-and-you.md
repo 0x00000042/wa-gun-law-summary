@@ -80,13 +80,7 @@ Yes.
 
 **So then how does this impact me?**
 
-Do you already have every gun you'll ever want and enough magazines for those guns to last a lifetime? If no, then this will impact you when you go to buy more in the future.
-
-Do you have impervious magazines that will never break? If no, then this will impact your ability to repair or replace them in the future.
-
-Do you have magical magazines that can never be stolen or lost? If no, then this will impact your ability to replace them in the future.
-
-Do you care about the exercise of rights of future generations? If no, then this bill doesn't impact you.
+This bill restricts your ability to repair or replace magazines if they're broken, lost, or stolen, your ability to purchase new guns in the future with their intended magazines included, and your ability to share and enjoy your hobby with your friends and family.
 
 ### Importation
 
