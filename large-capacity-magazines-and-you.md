@@ -62,7 +62,7 @@ Yes.
 
 No. Since the bill no longer regulates possession, it no longer requires a grandfather clause.
 
-**Do I need to take photos to prove I already own them?**
+**Do I need to take photos as proof of the "large capacity magazines" I already own?**
 
 No. Since the bill no longer regulates possession, it no longer requires proof of possession before the effective date either.
 
@@ -86,7 +86,7 @@ Do you have impervious magazines that will never break? If no, then this will im
 
 Do you have magical magazines that can never be stolen or lost? If no, then this will impact your ability to replace them in the future.
 
-Do you care about the exercise of rights of future generations? If no, then this bill doesn't impact you. 
+Do you care about the exercise of rights of future generations? If no, then this bill doesn't impact you.
 
 ### Importation
 
