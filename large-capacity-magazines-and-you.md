@@ -1,5 +1,3 @@
-# "Large Capacity Magazines" and You - A SB 5078 FAQ
-
 I've noticed a lot of confusion over the effects of [SB 5078](https://app.leg.wa.gov/billsummary?billnumber=5078&year=2021) in the past few days. Rather than continue to provide answers dispersed across all the various threads of conversation, I thought it useful to collate common questions and answers here in one place. Many thanks to /u/dircs for the help in drafting this post.
 
 If you have additional questions, feel free to ask them in the comments and I'll consider adding them to this post. I will also make alterations to this post if the bill changes as it advances through the remaining stages.
@@ -44,7 +42,7 @@ It was, and then it [wasn't](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf
 
 **Is my ______ considered a "large capacity magazine"?**
 
-Probably. If it holds more than ten rounds at once, the definition is broad enough that whatever you have is probably included. The only exceptions are: (a) permanently altered magazines with capacity reduced to 10 or fewer rounds; (b) .22LR tube magazines; and (c) any tube magazine in a lever action firearm.
+Probably. If it holds more than ten rounds at once, the definition is broad enough that whatever you have is probably included. The only exceptions are: (a) permanently altered magazines with capacity reduced to 10 or fewer rounds; (b) .22 caliber tube magazines; and (c) any tube magazine in a lever action firearm.
 
 **Why do you keep putting quotes around "large capacity magazine"?**
 
@@ -55,6 +53,11 @@ Because it's a made up term whose only justification to exist is to implement th
 **Does this bill restrict possession of my existing "large capacity magazines"?**
 
 No, the bill was [amended](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Amendments/Senate/5078-S%20AMS%20LIIA%20S3477.5.pdf) to no longer regulate possession whatsoever.
+
+
+**But I thought this bill prohibited carrying "large capacity magazines" except at home, the range, and in the woods?**
+
+It used to in previous drafts, but after the most recent [amendment]((https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Amendments/Senate/5078-S%20AMS%20LIIA%20S3477.5.pdf) it no longer regulates possession at all.
 
 **Can I keep my existing "large capacity magazines"?**
 
@@ -198,27 +201,27 @@ No. It passed the Senate but has not yet passed the House.
 
 **What is the process to pass the House?**
 
-The same as it went through to pass the Senate. It will be assigned to a committee who will hold public hearings, decide to recommend, alter, or reject the bill, then be sent to the Rules Committee for second reading (open floor debate and amendments) and third reading (vote).
+The same as it went through to pass the Senate. It will be assigned to a committee who will hold public hearings, decide to recommend, alter, or reject the bill, then it will be sent to the Rules Committee to be placed on the list for second reading, then it will go to the floor or second reading (open floor debate and amendments) and third reading (vote).
 
-**What committee will it be assigned to?**
+**What is the current status of the bill?**
 
-The House Committee on Civil Rights & Judiciary.
+On Friday the 18th it passed out of committee along party lines.
 
-**When is the next public hearing?**
+**What is next for this bill?**
 
-February 16th at 10:00am. [Committee materials](https://app.leg.wa.gov/committeeschedules/Home/Documents/29772).
+It is currently awaiting assignment to second reading.
 
-**How do I record my stance on this bill for the hearing?**
+**When will the House vote on it?**
 
-[Here](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146519&caId=19579&tId=3).
+We don't know yet. Second and third readings aren't scheduled in advance, but on the fly during floor sessions.
 
-**How do I submit written testimony for the hearing?**
+**When is the last day the House can vote on it?**
 
-[Here](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146519&caId=19579&tId=4)
+March 4th according to the 2022 [legislative session cutoff calendar](https://leg.wa.gov/legislature/Pages/cutoff.aspx).
 
-**How do I sign up to provide live remote testimony via Zoom at the hearing?**
+**What can I do to help oppose this bill?**
 
-[Here](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=29772&aId=146519&caId=19579&tId=2).
+Currently, by contacting your representatives, talking with friends and family and encouraging them to do the same, and staying up to date on the movement of the bill via signing up for email updates.
 
 **How do I submit my comments on this bill to my representatives?**
 
@@ -227,11 +230,3 @@ February 16th at 10:00am. [Committee materials](https://app.leg.wa.gov/committee
 **How do I get email updates of progress of this bill?**
 
 [Here](https://public.govdelivery.com//accounts/WALEGBILLS/subscriber/new?topic_id=SB5078-2021-22).
-
-**When will the House vote on it?**
-
-We don't know yet, it has other hurdles to clear first.
-
-**When is the last day the House can vote on it?**
-
-March 4th according to the 2022 [legislative session cutoff calendar](https://leg.wa.gov/legislature/Pages/cutoff.aspx).
