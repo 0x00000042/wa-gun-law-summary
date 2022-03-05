@@ -1,3 +1,5 @@
+**March 4th Update - the bill has now passed both the Senate and the House and will become law (assuming the Governor signs it which he will)**
+
 I've noticed a lot of confusion over the effects of [SB 5078](https://app.leg.wa.gov/billsummary?billnumber=5078&year=2021) in the past few days. Rather than continue to provide answers dispersed across all the various threads of conversation, I thought it useful to collate common questions and answers here in one place. Many thanks to /u/dircs for the help in drafting this post.
 
 If you have additional questions, feel free to ask them in the comments and I'll consider adding them to this post. I will also make alterations to this post if the bill changes as it advances through the remaining stages.
@@ -191,42 +193,14 @@ Under RCW [9A.04.080](https://apps.leg.wa.gov/RCW/default.aspx?cite=9A.04.080) (
 
 ### Legislative Process
 
+**Is this bill law yet?**
+
+Not technically. It has passed in both the Senate and the House and now awaits the Governor's signature which is just a formality. It will become law by the end of session March 10th.
+
 **When would this bill take effect?**
 
 If passed as is, July 1, 2022.
 
-**Is this bill law yet?**
+**What can we do now?**
 
-No. It passed the Senate but has not yet passed the House.
-
-**What is the process to pass the House?**
-
-The same as it went through to pass the Senate. It will be assigned to a committee who will hold public hearings, decide to recommend, alter, or reject the bill, then it will be sent to the Rules Committee to be placed on the list for second reading, then it will go to the floor or second reading (open floor debate and amendments) and third reading (vote).
-
-**What is the current status of the bill?**
-
-On Friday the 18th it passed out of committee along party lines.
-
-**What is next for this bill?**
-
-It is currently awaiting assignment to second reading.
-
-**When will the House vote on it?**
-
-We don't know yet. Second and third readings aren't scheduled in advance, but on the fly during floor sessions.
-
-**When is the last day the House can vote on it?**
-
-March 4th according to the 2022 [legislative session cutoff calendar](https://leg.wa.gov/legislature/Pages/cutoff.aspx).
-
-**What can I do to help oppose this bill?**
-
-Currently, by contacting your representatives, talking with friends and family and encouraging them to do the same, and staying up to date on the movement of the bill via signing up for email updates.
-
-**How do I submit my comments on this bill to my representatives?**
-
-[Here](https://app.leg.wa.gov/pbc/bill/5078).
-
-**How do I get email updates of progress of this bill?**
-
-[Here](https://public.govdelivery.com//accounts/WALEGBILLS/subscriber/new?topic_id=SB5078-2021-22).
+Buy any magazines you think you'll ever need before July 1, 2022, and donate to organizations like the [Second Amendment Foundation](https://www.saf.org/donation-page/) to help fight this in court.
