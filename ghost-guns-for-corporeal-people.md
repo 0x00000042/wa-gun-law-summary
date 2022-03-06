@@ -132,6 +132,10 @@ No. The bill does not require the dealer, manufacturer, or importer to transmit 
 
 Yes. Custom serial numbers do not satisfy the law, either because they weren't applied by a dealer, importer, or manufacturer or because they don't meet the required serial number format, so these would need to be re-serialized. However, the law provides no guidance or consideration for what to do in this situation.
 
+**Is a serial number required for a self-made firearm made before July 1, 2019?**
+
+In my opinion, no, if the gun is actually complete. Such a firearm would not meet the definition of an "untraceable firearm" mentioned above and would therefore not be subject to the serialization requirements on an "untraceable firearm". This would not apply to an "unfinished frame or receiver" as this definition contains no exclusionary date.
+
 ### Penalties
 
 **What are the penalties for violating this bill?**
@@ -143,4 +147,4 @@ The criminal penalties are as follows:
 * Third or further violation - gross misdemeanor (up to 364 days in jail, up to $5000 fine, or both)
 * Three or more violations at the same time - immediate gross misdemeanor
 
-In addition, each "untraceable firearm" or "unfinished frame or receiver" in violation of this law is considered a separate violation. 
+In addition, each "untraceable firearm" or "unfinished frame or receiver" in violation of this law is considered a separate violation.
