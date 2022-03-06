@@ -134,7 +134,7 @@ Yes. Custom serial numbers do not satisfy the law, either because they weren't a
 
 **Is a serial number required for a self-made firearm made before July 1, 2019?**
 
-In my opinion, no, if the gun is actually complete. Such a firearm would not meet the definition of an "untraceable firearm" mentioned above and would therefore not be subject to the serialization requirements on an "untraceable firearm". This would not apply to an "unfinished frame or receiver" as this definition contains no exclusionary date.
+In my opinion, no, if the gun is actually complete. Such a firearm would not meet the definition of an "untraceable firearm" mentioned above and would therefore not be subject to the serialization requirements on an "untraceable firearm". However, this would not apply to an "unfinished frame or receiver" as the definition of this term contains no exclusionary date.
 
 ### Penalties
 
