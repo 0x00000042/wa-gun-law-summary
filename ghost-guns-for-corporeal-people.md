@@ -1,5 +1,5 @@
 
-With the passing of [HB 1705](https://app.leg.wa.gov/billsummary?year=2022&billnumber=1705) a few days ago, there's been a lot of questions about the effects of the bill. I will try my best to summarize what it means for us here in one thread. I'm no expert, so I can't guarantee accuracy, and I will update the post ad understanding changes.
+With the passing of [HB 1705](https://app.leg.wa.gov/billsummary?year=2022&billnumber=1705) a few days ago, there's been a lot of questions about the effects of the bill. I will try my best to summarize what it means for us here in one thread. I'm no expert, so I can't guarantee accuracy nor can I predict how law enforcement and the courts will interpret the bill.
 
 If you have additional questions, feel free to ask them in the comments and I'll consider adding them to this post.
 
@@ -25,7 +25,7 @@ Yes.
 
 **What does this bill do?**
 
-In summary, the bill prohibits firearms and "unfinished frames and receivers" that are not serialized by a dealer, manufacturer, or importer and provides requirements on how a dealer, manufacturer, or importer can serialize such items if they aren't already serialized.
+In summary, the bill prohibits firearms and "unfinished frames and receivers" that are not serialized by a dealer, manufacturer, or importer and provides requirements on how a dealer, manufacturer, or importer can serialize such items to make them legal.
 
 **When does this bill take effect?**
 
