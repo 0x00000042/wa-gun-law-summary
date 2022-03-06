@@ -123,6 +123,10 @@ Yes. The bill requires the dealer, manufacturer, or importer to "retain records 
 
 No. The bill does not require the dealer, manufacturer, or importer to transmit any information to the state.
 
+**What happens with "untraceable firearms" or "unfinished frames or receivers" previously serialized with custom numbers?**
+
+Unknown. Custom serial numbers do not satisfy the law, so presumably these would need to be re-serialized, but the law provides no guidance or consideration for what to do in this situation.
+
 ## Penalties
 
 **What are the penalties for violating this bill?**
