@@ -1,6 +1,8 @@
-With the passing of [HB 1705](https://app.leg.wa.gov/billsummary?year=2022&billnumber=1705) a few days ago, there's been a lot of questions about the effects of the bill. I will try my best to summarize what it means for us here in one thread. I'm no expert, so I can't guarantee accuracy nor can I predict how law enforcement and the courts will interpret the bill. Thanks to /u/dircs for helping with this FAQ.
+With the passing of [HB 1705](https://app.leg.wa.gov/billsummary?year=2022&billnumber=1705) a few days ago, there's been a lot of questions about the effects of the bill. I will try my best to summarize what it means for us here in one thread. Special thanks to /u/dircs for helping me with this. 
 
-If you have additional questions, feel free to ask them in the comments and I'll consider adding them to this post.
+Please keep in mind that I'm no expert and I have no authority, so I can't guarantee accuracy, nor can I predict how law enforcement and the courts will interpret the bill.
+
+Finally, if you have additional questions, feel free to ask them in the comments and I'll consider adding them to this post.
 
 ### Disclaimers
 
