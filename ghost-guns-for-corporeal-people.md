@@ -97,7 +97,11 @@ Unknown. The text is not clear enough to say this for sure. We'll have to see ho
 
 **Who may serialize an "untraceable firearm" or "unfinished frame or receiver"?**
 
-Section 6 of the bill authorizes any federally licensed dealer or other federal licensee authorized to provide marking services to provide serialization services.
+Section 6 of the bill authorizes federally licensed dealers, importers, or manufacturers to provide serialization services.
+
+**I am a federally licensed collector (FFL 03), can I provide serialization services?**
+
+No. The bill only authorizes dealers or "other federal licensees authorized to provide marking services for firearms" to provide serialization services. Under federal regulation, collectors are not authorized to provide marking services.
 
 **Can I serialize my "untraceable firearm" or "unfinished frame or receiver" myself?**
 
@@ -123,9 +127,9 @@ Yes. The bill requires the dealer, manufacturer, or importer to "retain records 
 
 No. The bill does not require the dealer, manufacturer, or importer to transmit any information to the state.
 
-**What happens with "untraceable firearms" or "unfinished frames or receivers" previously serialized with custom numbers?**
+**I have an "untraceable firearm" or "unfinished frame or receiver" that I previously serialized with a custom serial number. Do I need to have it re-serialized?**
 
-Unknown. Custom serial numbers do not satisfy the law, so presumably these would need to be re-serialized, but the law provides no guidance or consideration for what to do in this situation.
+Yes. Custom serial numbers do not satisfy the law, either because they weren't applied by a dealer, importer, or manufacturer or because they don't meet the required serial number format, so these would need to be re-serialized. However, the law provides no guidance or consideration for what to do in this situation.
 
 ## Penalties
 
@@ -137,3 +141,5 @@ The criminal penalties are as follows:
 * Second violation - misdemeanor (up to 90 days in jail, up to $1000 fine, or both)
 * Third or further violation - gross misdemeanor (up to 364 days in jail, up to $5000 fine, or both)
 * Three or more violations at the same time - immediate gross misdemeanor
+
+In addition, each "untraceable firearm" or "unfinished frame or receiver" in violation of this law is considered a separate violation. 
