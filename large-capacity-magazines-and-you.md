@@ -211,55 +211,55 @@ Tally: 28-20-1
 
 Senator | Party | District | Vote
 :---|:---:|---:|:---
-[Billig](https://leg.wa.gov/house/representatives/Pages/default.aspx#Billig) | D | [3](https://app.leg.wa.gov/districtfinder/displaydistrict/3) | Yea
-[Carlyle](https://leg.wa.gov/house/representatives/Pages/default.aspx#Carlyle) | D | [36](https://app.leg.wa.gov/districtfinder/displaydistrict/36) | Yea
-[Cleveland](https://leg.wa.gov/house/representatives/Pages/default.aspx#Cleveland) | D | [49](https://app.leg.wa.gov/districtfinder/displaydistrict/49) | Yea
-[Conway](https://leg.wa.gov/house/representatives/Pages/default.aspx#Conway) | D | [29](https://app.leg.wa.gov/districtfinder/displaydistrict/29) | Yea
-[Das](https://leg.wa.gov/house/representatives/Pages/default.aspx#Das) | D | [47](https://app.leg.wa.gov/districtfinder/displaydistrict/47) | Yea
-[Dhingra](https://leg.wa.gov/house/representatives/Pages/default.aspx#Dhingra) | D | [45](https://app.leg.wa.gov/districtfinder/displaydistrict/45) | Yea
-[Frockt](https://leg.wa.gov/house/representatives/Pages/default.aspx#Frockt) | D | [46](https://app.leg.wa.gov/districtfinder/displaydistrict/46) | Yea
-[Hasegawa](https://leg.wa.gov/house/representatives/Pages/default.aspx#Hasegawa) | D | [11](https://app.leg.wa.gov/districtfinder/displaydistrict/11) | Yea
-[Hunt](https://leg.wa.gov/house/representatives/Pages/default.aspx#Hunt) | D | [22](https://app.leg.wa.gov/districtfinder/displaydistrict/22) | Yea
-[Keiser](https://leg.wa.gov/house/representatives/Pages/default.aspx#Keiser) | D | [33](https://app.leg.wa.gov/districtfinder/displaydistrict/33) | Yea
-[Kuderer](https://leg.wa.gov/house/representatives/Pages/default.aspx#Kuderer) | D | [48](https://app.leg.wa.gov/districtfinder/displaydistrict/48) | Yea
-[Liias](https://leg.wa.gov/house/representatives/Pages/default.aspx#Liias) | D | [21](https://app.leg.wa.gov/districtfinder/displaydistrict/21) | Yea
-[Lovelett](https://leg.wa.gov/house/representatives/Pages/default.aspx#Lovelett) | D | [40](https://app.leg.wa.gov/districtfinder/displaydistrict/40) | Yea
-[Lovick](https://leg.wa.gov/house/representatives/Pages/default.aspx#Lovick) | D | [44](https://app.leg.wa.gov/districtfinder/displaydistrict/44) | Yea
-[Mullet](https://leg.wa.gov/house/representatives/Pages/default.aspx#Mullet) | D | [5](https://app.leg.wa.gov/districtfinder/displaydistrict/5) | Yea
-[Nguyen](https://leg.wa.gov/house/representatives/Pages/default.aspx#Nguyen) | D | [34](https://app.leg.wa.gov/districtfinder/displaydistrict/34) | Yea
-[Nobles](https://leg.wa.gov/house/representatives/Pages/default.aspx#Nobles) | D | [28](https://app.leg.wa.gov/districtfinder/displaydistrict/28) | Yea
-[Pedersen](https://leg.wa.gov/house/representatives/Pages/default.aspx#Pedersen) | D | [43](https://app.leg.wa.gov/districtfinder/displaydistrict/43) | Yea
-[Randall](https://leg.wa.gov/house/representatives/Pages/default.aspx#Randall) | D | [26](https://app.leg.wa.gov/districtfinder/displaydistrict/26) | Yea
-[Robinson](https://leg.wa.gov/house/representatives/Pages/default.aspx#Robinson) | D | [38](https://app.leg.wa.gov/districtfinder/displaydistrict/38) | Yea
-[Rolfes](https://leg.wa.gov/house/representatives/Pages/default.aspx#Rolfes) | D | [23](https://app.leg.wa.gov/districtfinder/displaydistrict/23) | Yea
-[Saldaña](https://leg.wa.gov/house/representatives/Pages/default.aspx#Saldaña) | D | [37](https://app.leg.wa.gov/districtfinder/displaydistrict/37) | Yea
-[Saloman](https://leg.wa.gov/house/representatives/Pages/default.aspx#Saloman) | D | [32](https://app.leg.wa.gov/districtfinder/displaydistrict/32) | Yea
-[Stanford](https://leg.wa.gov/house/representatives/Pages/default.aspx#Stanford) | D | [1](https://app.leg.wa.gov/districtfinder/displaydistrict/1) | Yea
-[Trudeau](https://leg.wa.gov/house/representatives/Pages/default.aspx#Trudeau) | D | [27](https://app.leg.wa.gov/districtfinder/displaydistrict/27) | Yea
-[Van Der Wege](https://leg.wa.gov/house/representatives/Pages/default.aspx#Van Der Wege) | D | [24](https://app.leg.wa.gov/districtfinder/displaydistrict/24) | Yea
-[Wellman](https://leg.wa.gov/house/representatives/Pages/default.aspx#Wellman) | D | [41](https://app.leg.wa.gov/districtfinder/displaydistrict/41) | Yea
-[Wilson, C](https://leg.wa.gov/house/representatives/Pages/default.aspx#Wilson, C) | D | [30](https://app.leg.wa.gov/districtfinder/displaydistrict/30) | Yea
-[Braun](https://leg.wa.gov/house/representatives/Pages/default.aspx#Braun) | R | [20](https://app.leg.wa.gov/districtfinder/displaydistrict/20) | Nay
-[Brown](https://leg.wa.gov/house/representatives/Pages/default.aspx#Brown) | R | [8](https://app.leg.wa.gov/districtfinder/displaydistrict/8) | Nay
-[Dozier](https://leg.wa.gov/house/representatives/Pages/default.aspx#Dozier) | R | [16](https://app.leg.wa.gov/districtfinder/displaydistrict/16) | Nay
-[Fortunato](https://leg.wa.gov/house/representatives/Pages/default.aspx#Fortunato) | R | [31](https://app.leg.wa.gov/districtfinder/displaydistrict/31) | Nay
-[Gildon](https://leg.wa.gov/house/representatives/Pages/default.aspx#Gildon) | R | [25](https://app.leg.wa.gov/districtfinder/displaydistrict/25) | Nay
-[Hawkins](https://leg.wa.gov/house/representatives/Pages/default.aspx#Hawkins) | R | [12](https://app.leg.wa.gov/districtfinder/displaydistrict/12) | Nay
-[Holy](https://leg.wa.gov/house/representatives/Pages/default.aspx#Holy) | R | [6](https://app.leg.wa.gov/districtfinder/displaydistrict/6) | Nay
-[Honeyford](https://leg.wa.gov/house/representatives/Pages/default.aspx#Honeyford) | R | [15](https://app.leg.wa.gov/districtfinder/displaydistrict/15) | Nay
-[King](https://leg.wa.gov/house/representatives/Pages/default.aspx#King) | R | [14](https://app.leg.wa.gov/districtfinder/displaydistrict/14) | Nay
-[McCune](https://leg.wa.gov/house/representatives/Pages/default.aspx#McCune) | R | [2](https://app.leg.wa.gov/districtfinder/displaydistrict/2) | Nay
-[Muzzall](https://leg.wa.gov/house/representatives/Pages/default.aspx#Muzzall) | R | [10](https://app.leg.wa.gov/districtfinder/displaydistrict/10) | Nay
-[Padden](https://leg.wa.gov/house/representatives/Pages/default.aspx#Padden) | R | [4](https://app.leg.wa.gov/districtfinder/displaydistrict/4) | Nay
-[Schoesler](https://leg.wa.gov/house/representatives/Pages/default.aspx#Schoesler) | R | [9](https://app.leg.wa.gov/districtfinder/displaydistrict/9) | Nay
-[Sefzik](https://leg.wa.gov/house/representatives/Pages/default.aspx#Sefzik) | R | [42](https://app.leg.wa.gov/districtfinder/displaydistrict/42) | Nay
-[Sheldon](https://leg.wa.gov/house/representatives/Pages/default.aspx#Sheldon) | D | [35](https://app.leg.wa.gov/districtfinder/displaydistrict/35) | Nay
-[Short](https://leg.wa.gov/house/representatives/Pages/default.aspx#Short) | R | [7](https://app.leg.wa.gov/districtfinder/displaydistrict/7) | Nay
-[Wagoner](https://leg.wa.gov/house/representatives/Pages/default.aspx#Wagoner) | R | [39](https://app.leg.wa.gov/districtfinder/displaydistrict/39) | Nay
-[Warnick](https://leg.wa.gov/house/representatives/Pages/default.aspx#Warnick) | R | [13](https://app.leg.wa.gov/districtfinder/displaydistrict/13) | Nay
-[Wilson, J](https://leg.wa.gov/house/representatives/Pages/default.aspx#Wilson, J) | R | [19](https://app.leg.wa.gov/districtfinder/displaydistrict/19) | Nay
-[Wilson, L](https://leg.wa.gov/house/representatives/Pages/default.aspx#Wilson, L) | R | [17](https://app.leg.wa.gov/districtfinder/displaydistrict/17) | Nay
-[Rivers](https://leg.wa.gov/house/representatives/Pages/default.aspx#Rivers) | R | [18](https://app.leg.wa.gov/districtfinder/displaydistrict/18) | Excused
+[Billig](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Billig) | D | [3](https://app.leg.wa.gov/districtfinder/displaydistrict/3) | Yea
+[Carlyle](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Carlyle) | D | [36](https://app.leg.wa.gov/districtfinder/displaydistrict/36) | Yea
+[Cleveland](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Cleveland) | D | [49](https://app.leg.wa.gov/districtfinder/displaydistrict/49) | Yea
+[Conway](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Conway) | D | [29](https://app.leg.wa.gov/districtfinder/displaydistrict/29) | Yea
+[Das](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Das) | D | [47](https://app.leg.wa.gov/districtfinder/displaydistrict/47) | Yea
+[Dhingra](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Dhingra) | D | [45](https://app.leg.wa.gov/districtfinder/displaydistrict/45) | Yea
+[Frockt](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Frockt) | D | [46](https://app.leg.wa.gov/districtfinder/displaydistrict/46) | Yea
+[Hasegawa](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Hasegawa) | D | [11](https://app.leg.wa.gov/districtfinder/displaydistrict/11) | Yea
+[Hunt](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Hunt) | D | [22](https://app.leg.wa.gov/districtfinder/displaydistrict/22) | Yea
+[Keiser](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Keiser) | D | [33](https://app.leg.wa.gov/districtfinder/displaydistrict/33) | Yea
+[Kuderer](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Kuderer) | D | [48](https://app.leg.wa.gov/districtfinder/displaydistrict/48) | Yea
+[Liias](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Liias) | D | [21](https://app.leg.wa.gov/districtfinder/displaydistrict/21) | Yea
+[Lovelett](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Lovelett) | D | [40](https://app.leg.wa.gov/districtfinder/displaydistrict/40) | Yea
+[Lovick](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Lovick) | D | [44](https://app.leg.wa.gov/districtfinder/displaydistrict/44) | Yea
+[Mullet](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Mullet) | D | [5](https://app.leg.wa.gov/districtfinder/displaydistrict/5) | Yea
+[Nguyen](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Nguyen) | D | [34](https://app.leg.wa.gov/districtfinder/displaydistrict/34) | Yea
+[Nobles](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Nobles) | D | [28](https://app.leg.wa.gov/districtfinder/displaydistrict/28) | Yea
+[Pedersen](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Pedersen) | D | [43](https://app.leg.wa.gov/districtfinder/displaydistrict/43) | Yea
+[Randall](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Randall) | D | [26](https://app.leg.wa.gov/districtfinder/displaydistrict/26) | Yea
+[Robinson](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Robinson) | D | [38](https://app.leg.wa.gov/districtfinder/displaydistrict/38) | Yea
+[Rolfes](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Rolfes) | D | [23](https://app.leg.wa.gov/districtfinder/displaydistrict/23) | Yea
+[Saldaña](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Saldaña) | D | [37](https://app.leg.wa.gov/districtfinder/displaydistrict/37) | Yea
+[Saloman](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Saloman) | D | [32](https://app.leg.wa.gov/districtfinder/displaydistrict/32) | Yea
+[Stanford](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Stanford) | D | [1](https://app.leg.wa.gov/districtfinder/displaydistrict/1) | Yea
+[Trudeau](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Trudeau) | D | [27](https://app.leg.wa.gov/districtfinder/displaydistrict/27) | Yea
+[Van Der Wege](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Van Der Wege) | D | [24](https://app.leg.wa.gov/districtfinder/displaydistrict/24) | Yea
+[Wellman](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Wellman) | D | [41](https://app.leg.wa.gov/districtfinder/displaydistrict/41) | Yea
+[Wilson, C](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Wilson, C) | D | [30](https://app.leg.wa.gov/districtfinder/displaydistrict/30) | Yea
+[Braun](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Braun) | R | [20](https://app.leg.wa.gov/districtfinder/displaydistrict/20) | Nay
+[Brown](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Brown) | R | [8](https://app.leg.wa.gov/districtfinder/displaydistrict/8) | Nay
+[Dozier](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Dozier) | R | [16](https://app.leg.wa.gov/districtfinder/displaydistrict/16) | Nay
+[Fortunato](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Fortunato) | R | [31](https://app.leg.wa.gov/districtfinder/displaydistrict/31) | Nay
+[Gildon](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Gildon) | R | [25](https://app.leg.wa.gov/districtfinder/displaydistrict/25) | Nay
+[Hawkins](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Hawkins) | R | [12](https://app.leg.wa.gov/districtfinder/displaydistrict/12) | Nay
+[Holy](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Holy) | R | [6](https://app.leg.wa.gov/districtfinder/displaydistrict/6) | Nay
+[Honeyford](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Honeyford) | R | [15](https://app.leg.wa.gov/districtfinder/displaydistrict/15) | Nay
+[King](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#King) | R | [14](https://app.leg.wa.gov/districtfinder/displaydistrict/14) | Nay
+[McCune](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#McCune) | R | [2](https://app.leg.wa.gov/districtfinder/displaydistrict/2) | Nay
+[Muzzall](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Muzzall) | R | [10](https://app.leg.wa.gov/districtfinder/displaydistrict/10) | Nay
+[Padden](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Padden) | R | [4](https://app.leg.wa.gov/districtfinder/displaydistrict/4) | Nay
+[Schoesler](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Schoesler) | R | [9](https://app.leg.wa.gov/districtfinder/displaydistrict/9) | Nay
+[Sefzik](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Sefzik) | R | [42](https://app.leg.wa.gov/districtfinder/displaydistrict/42) | Nay
+[Sheldon](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Sheldon) | D | [35](https://app.leg.wa.gov/districtfinder/displaydistrict/35) | Nay
+[Short](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Short) | R | [7](https://app.leg.wa.gov/districtfinder/displaydistrict/7) | Nay
+[Wagoner](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Wagoner) | R | [39](https://app.leg.wa.gov/districtfinder/displaydistrict/39) | Nay
+[Warnick](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Warnick) | R | [13](https://app.leg.wa.gov/districtfinder/displaydistrict/13) | Nay
+[Wilson, J](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Wilson, J) | R | [19](https://app.leg.wa.gov/districtfinder/displaydistrict/19) | Nay
+[Wilson, L](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Wilson, L) | R | [17](https://app.leg.wa.gov/districtfinder/displaydistrict/17) | Nay
+[Rivers](https://leg.wa.gov/Senate/Senators/Pages/default.aspx#Rivers) | R | [18](https://app.leg.wa.gov/districtfinder/displaydistrict/18) | Excused
 
 **What was the vote in the House?**
 
