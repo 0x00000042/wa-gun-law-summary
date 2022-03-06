@@ -41,9 +41,9 @@ Any *firearm* made after July 1, 2019 that does not have a serial number applied
 
 Section 4 of the bill specifically prohibits the following:
 
-1. Manufacturing or assembling an "untraceable firearm" after July 1, 2022
-2. Possessing, transporting, or receiving an "untraceable firearm" after March 10, 2023
-3. Selling, offering to sell, transferring, or purchasing an "untraceable firearm" after July 1, 2022
+* Manufacturing or assembling an "untraceable firearm" after July 1, 2022
+* Selling, offering to sell, transferring, or purchasing an "untraceable firearm" after July 1, 2022
+* Possessing, transporting, or receiving an "untraceable firearm" after March 10, 2023
 
 **Does this apply to frames and receivers?**
 
@@ -77,16 +77,17 @@ Putting all this together, an "unfinished frame or receiver" would be any part o
 
 1. Visible from the exterior; and
 2. Houses fire control components; and
-3. Either:
-    a. Is partially complete, disassembled, or inoperable; or
+3. Is partially complete, disassembled, or inoperable; and
+4. Either:
+    a. May readily be completed, assembled, converted, or restored to a functional state; or
     b. Is marketed as an 80% or otherwise unfinished frame or receiver
 
 **Are "unfinished frames or receivers" now illegal?**
 
 Section 5 of the bill prohibits the following:
 
-1. Possessing, transporting, or receiving an "unfinished frame or receiver" after March 10, 2023 unless it is serialized by a federally licensed manufacturer, importer, or dealer.
-2. Selling, offering to sell, transferring, or purchasing an "unfinished frame or receiver" after July 1, 2022 unless it is serialized by a federally licensed manufacturer, importer, or dealer.
+* Selling, offering to sell, transferring, or purchasing an "unfinished frame or receiver" after July 1, 2022 unless it is serialized by a federally licensed manufacturer, importer, or dealer.
+* Possessing, transporting, or receiving an "unfinished frame or receiver" after March 10, 2023 unless it is serialized by a federally licensed manufacturer, importer, or dealer.
 
 **Does this apply to an AR upper, pistol slide, or revolver cylinder?**
 
@@ -128,7 +129,7 @@ No. The bill does not require the dealer, manufacturer, or importer to transmit 
 
 The criminal penalties are as follows:
 
-1. First violation - civil infraction and $500 fine
-2. Second violation - misdemeanor (up to 90 days in jail, up to $1000 fine, or both)
-3. Third or further violation - gross misdemeanor (up to 364 days in jail, up to $5000 fine, or both)
-4. Three or more violations at the same time - immediate gross misdemeanor
+* First violation - civil infraction and $500 fine
+* Second violation - misdemeanor (up to 90 days in jail, up to $1000 fine, or both)
+* Third or further violation - gross misdemeanor (up to 364 days in jail, up to $5000 fine, or both)
+* Three or more violations at the same time - immediate gross misdemeanor
