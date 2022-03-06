@@ -32,7 +32,7 @@ In summary, the bill prohibits firearms and "unfinished frames and receivers" th
 
 July 1, 2022, though some provisions don't apply until March 10, 2023.
 
-## "Untraceable Firearms"
+### "Untraceable Firearms"
 
 **What is an "untraceable firearm"?**
 
@@ -58,7 +58,7 @@ No. The bill specifically exempts federally defined *antique firearms* from the 
 
 No. The bill specifically exempts any firearm manufactured before 1968 from the prohibitions mentioned above.
 
-## "Unfinished Frames and Receivers"
+### "Unfinished Frames and Receivers"
 
 **What is an "unfinished frame or receiver"?**
 
@@ -94,7 +94,7 @@ Section 5 of the bill prohibits the following:
 
 Unknown. The text is not clear enough to say this for sure. We'll have to see how the courts interpret this, so proceed at your own risk. In my opinion, probably not unless there's actual manufacturing work remaining to finalize the part itself, but that's me reading between the lines.
 
-## Serialization Requirements
+### Serialization Requirements
 
 **Who may serialize an "untraceable firearm" or "unfinished frame or receiver"?**
 
@@ -132,7 +132,7 @@ No. The bill does not require the dealer, manufacturer, or importer to transmit 
 
 Yes. Custom serial numbers do not satisfy the law, either because they weren't applied by a dealer, importer, or manufacturer or because they don't meet the required serial number format, so these would need to be re-serialized. However, the law provides no guidance or consideration for what to do in this situation.
 
-## Penalties
+### Penalties
 
 **What are the penalties for violating this bill?**
 
