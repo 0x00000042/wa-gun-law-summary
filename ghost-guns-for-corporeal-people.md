@@ -35,7 +35,7 @@ July 1, 2022, though some provisions don't apply until March 10, 2023.
 
 **What is an "untraceable firearm"?**
 
-Any *firearm* made after July 1, 2019 that does not have a serial number applied by a federally licensed manufacturer, importer, or dealer. This definition has existed since 2019 in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010), though this bill slightly modifies it to also include serial numbers applied by dealers rather than only manufacturers and importers.
+Any *firearm* made after July 1, 2019 that does not have a serial number applied by a federally licensed manufacturer, importer, or dealer. This definition has existed since 2019 in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010), though this bill slightly modifies it to also include serial numbers applied by dealers rather than only those applied by manufacturers and importers.
 
 **Are "untraceable firearms" now illegal?**
 
@@ -47,7 +47,7 @@ Section 4 of the bill specifically prohibits the following:
 
 **Does this apply to frames and receivers?**
 
-In my opinion, no. I do not believe frames or receivers qualify for the state definition of *firearm* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) so they could not then be an *untraceable firearm*. In addition, the bill separately defines both "frame or receiver" and "unfinished frame or receiver", which would be unnecessary if they were considered *firearms*. See the next section for more on "unfinished frame or receivers".
+In my opinion, no. I do not believe frames or receivers qualify for the state definition of *firearm* in RCW [9.41.010](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.010) so they could not then be an "untraceable firearm". In addition, the bill separately defines both "frame or receiver" and "unfinished frame or receiver", which would be unnecessary if they were already considered *firearms*. See the next section for more on "unfinished frame or receivers".
 
 **Does this apply to antiques?**
 
@@ -61,7 +61,7 @@ No. The bill specifically exempts any firearm manufactured before 1968 from the 
 
 **What is an "unfinished frame or receiver"?**
 
-The bill defines this as any "frame or receiver" that is "partially complete, disassembled, or inoperable" that either: (a) "may readily be completed, assembled, converted, or restored to a functional state"; or (b) "is marketed or sold... as the frame or receiver of a functional firearm once finished or completed, including without limitation... 80 percent frame or receiver"
+The bill defines this as any "frame or receiver" that is "partially complete, disassembled, or inoperable" that either: (a) "may readily be completed, assembled, converted, or restored to a functional state"; or (b) "is marketed or sold... as the frame or receiver of a functional firearm once finished or completed, including without limitation... an 80 percent frame or receiver".
 
 **What is a "frame or receiver"?**
 
@@ -69,13 +69,13 @@ The bill defines this as any part of a firearm that is visible from the exterior
 
 **What is a "fire control component"?**
 
-The bill defines this as any "component necessary for the firearm to initiate, complete, or continue the firing sequence" including things like the hammer, bolt, bolt carrier, cylinder, trigger, firing pin, striker, or slide rails.
+The bill defines this as any "component necessary for the firearm to initiate, complete, or continue the firing sequence, including any of the following: hammer, bolt, bolt carrier, cylinder, trigger, firing pin, striker, or slide rails."
 
 **Then what is an "unfinished frame or receiver"?**
 
-Putting all this together, an "unfinished frame or receiver" would be any part of a firearm that meets all of the following:
+Putting all this together, an "unfinished frame or receiver" would be any part of a firearm that satisfies all of the following:
 
-1. Visible from the exterior; and
+1. Is visible from the exterior; and
 2. Houses fire control components; and
 3. Is partially complete, disassembled, or inoperable; and
 4. Either:
