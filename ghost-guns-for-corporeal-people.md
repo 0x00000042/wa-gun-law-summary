@@ -20,7 +20,7 @@ No.
 
 ### General
 
-**Should I read the [full text](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Bills/1705-S.E.pdf) myself?**
+**Should I read the [full text](https://lawfilesext.leg.wa.gov/biennium/2021-22/Pdf/Bills/House%20Passed%20Legislature/1705-S.PL.pdf) myself?**
 
 Yes.
 
