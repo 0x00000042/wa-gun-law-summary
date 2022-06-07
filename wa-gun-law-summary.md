@@ -504,7 +504,7 @@ Starting July 1, yes. [HB 1630](https://lawfilesext.leg.wa.gov/biennium/2021-22/
 
 **Are there any other locations where firearms are prohibited?**
 
-Yes. RCW [9.41.300](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.300) (1) prohibits possession of any firearm in other places, including jails; court rooms; mental health facilities; bars, lounges, and cannabis shops; airports; and others, though common entry areas are usually exempted, while (2)(b) allows cities, towns, and counties to prohibit possession of a firearm inside a stadium or convention center operated by a city, town or county.
+Yes. RCW [9.41.300](https://app.leg.wa.gov/RCW/default.aspx?cite=9.41.300) (1) prohibits possession of any firearm in other places, including jails; court rooms; mental health facilities; bars, lounges, and cannabis shops (except for proprietor and employees); airports; and others, though common entry areas are usually exempted, while (2)(b) allows cities, towns, and counties to prohibit possession of a firearm inside a stadium or convention center operated by a city, town or county.
 
 **Do gun free zones have force of law?**
 
