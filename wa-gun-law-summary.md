@@ -556,6 +556,6 @@ RCW [9A.16.050](https://app.leg.wa.gov/rcw/default.aspx?cite=9A.16.050) specifie
 
 Washington state has no crime named *brandishing*. However, there are two statutes that criminalize actions commonly referred to as "brandishing".
 
-RCW [9.41.230](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.230) prohibits aiming a firearm, loaded or not, at another human being and wilfully dischargeing a firearm in a public place where others might be endangered.
+RCW [9.41.230](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.230) prohibits aiming a firearm, loaded or not, at another human being and willfully discharging a firearm in a public place where others might be endangered.
 
 RCW [9.41.270](https://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.270) prohibits carrying, exhibiting, displaying, or drawing any deadly weapon in an intent to intimidate another or in a manner that warrants alarm for the safety of others, except in a person's home or business or in lawful defense.
